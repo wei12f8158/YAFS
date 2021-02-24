@@ -41,10 +41,7 @@ class CustomStrategy():
     def is_already_deployed(self,sim,service_name,idtopo):
         app_name = service_name[0:service_name.index("_")]
 
-        all_des = []
-        for k, v in sim.alloc_DES.items():
-            if v == idtopo:
-                all_des.append(k)
+        all_des = [k for k, v in sim.alloc_DES.items() if v == idtopo]
 
         # Clearing other related structures
         for des in sim.alloc_module[app_name][service_name]:
@@ -57,11 +54,11 @@ class CustomStrategy():
         example: defaultdict(<type 'list'>, {u'2_19': [15], u'3_22': [5]})
         """
         current_services = sim.get_alloc_entities()
-        current_services = dict((k, v) for k, v in current_services.items() if len(v)>0)
+        current_services = {k: v for k, v in current_services.items() if len(v)>0}
         deployed_services = defaultdict(list)
-        for k,v  in current_services.items():
+        for k,v in current_services.items():
             for service_name in v:
-                if not "None" in service_name: #[u'2#2_19']
+                if "None" not in service_name: #[u'2#2_19']
                     deployed_services[service_name[service_name.index("#")+1:]].append(k)
         return deployed_services
 
