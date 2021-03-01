@@ -220,7 +220,7 @@ def main(simulated_time, path,pathResults,case, failuresON, it,idcloud):
     s.print_debug_assignaments()
 
     # Genera un fichero GEPHI donde se marcan los nodos con usuarios (userposition) y los nodos con servicios desplegados (services)
-    print "----"
+    print ("----")
     l = s.get_alloc_entities()
     userposition = {}
     deploymentservices = {}
@@ -240,12 +240,12 @@ def main(simulated_time, path,pathResults,case, failuresON, it,idcloud):
     nx.set_node_attributes(s.topology.G, values= userposition, name='userposition')
     # nx.write_gexf(s.topology.G, "network_assignments.gexf")
 
-    print selectorPath.dname
+    print (selectorPath.dname)
     f = open(selectorPath.dname + "/file_alloc_entities_%s_%i_%i.pkl" % (case, stop_time, it), "wb")
     pickle.dump(l, f)
     f.close()
 
-    print "----"
+    print ("----")
     controlServices = selectorPath.controlServices
     # print controlServices
     attEdges = collections.Counter()
@@ -273,14 +273,14 @@ if __name__ == '__main__':
     # NOTE: ABSOLUTE PATH TO JSON FILES ACCORDING TO THE EXECUTION-PLACE
     # We simplify the path update in our experimentation to external servers (it's a bit precarious but functional)
     runpath = os.getcwd()
-    print runpath
+    print (runpath)
     if "/home/uib/" in runpath :
         pathExperimento = "/home/uib/src/YAFS/src/examples/MCDA/exp1/"
     else:
         pathExperimento = "exp1/"
     #####
 
-    print "PATH EXPERIMENTO: ",pathExperimento
+    print ("PATH EXPERIMENTO: ",pathExperimento)
     nSimulations = 1
     timeSimulation = 10000
     datestamp = time.strftime('%Y%m%d')
@@ -316,7 +316,7 @@ if __name__ == '__main__':
         print("\n--- %s seconds ---" % (time.time() - start_time))
         start_time = time.time()
 
-    print "Simulation Done"
+    print ("Simulation Done")
 
 ### NOTAS:
 # Deberia de cambiar la posicion en cada simulation

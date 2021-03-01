@@ -108,8 +108,8 @@ class CustomStrategy():
                 ## ONE WAY
                 # edges_to_remove = [e for e in sim.topology.G.edges() if int(code) in e]
                 # for edge in edges_to_remove:
-                #     att = sim.topology.G[edge[0]][edge[1]]
-                #     sim.topology.G.remove_edge(*edge)
+                    # att = sim.topology.G[edge[0]][edge[1]]
+                    # sim.topology.G.remove_edge(*edge)
 
                 ## OTHER WAY
                 # sim.topology.G.remove_node(code)

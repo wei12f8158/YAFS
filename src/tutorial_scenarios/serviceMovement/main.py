@@ -111,7 +111,7 @@ def main(stop_time, it):
     t.G = nx.generators.binomial_tree(size) # In NX-lib there are a lot of Graphs generators
 
     # Definition of mandatory attributes of a Topology
-    ## Attr. on edges
+    # Attr. on edges
     # PR and BW are 1 unit
     attPR_BW = {x: 1 for x in t.G.edges()}
     nx.set_edge_attributes(t.G, name="PR", values=attPR_BW)

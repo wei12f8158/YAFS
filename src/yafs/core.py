@@ -100,7 +100,7 @@ class Sim:
         self.population_policy = {}
         # for app.name the population algorithm
 
-        # for app.nmae
+        # for app.name
         # self.process_topology = {}
 
         self.des_process_running = {}
