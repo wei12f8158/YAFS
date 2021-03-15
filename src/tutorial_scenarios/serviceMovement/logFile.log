@@ -3127,3 +3127,1730 @@
 2021-03-01 12:24:19,871 - root - INFO - Moving Service 5_01 from 19 to 4 node
 2021-03-01 12:24:19,871 - root - INFO - Moving Service 1_01 from 22 to 1 node
 2021-03-01 12:24:19,871 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-01 15:36:08,478 - root - INFO - Running experiment it: - 0
+2021-03-01 15:36:08,502 - root - INFO -  Performing simulation: 0 
+2021-03-01 15:36:08,525 - root - INFO - Activating Custom process - number 0 
+2021-03-01 15:36:08,526 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-01 15:36:08,526 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-01 15:36:08,526 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-01 15:36:08,526 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-01 15:36:08,526 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-01 15:36:08,526 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-01 15:36:08,526 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-01 15:36:08,534 - root - INFO - Activating Custom process - number 1 
+2021-03-01 15:36:08,534 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-01 15:36:08,534 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-01 15:36:08,534 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-01 15:36:08,534 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-01 15:36:08,534 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-01 15:36:08,534 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-01 15:36:08,535 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-01 15:36:08,542 - root - INFO - Activating Custom process - number 2 
+2021-03-01 15:36:08,543 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-01 15:36:08,543 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-01 15:36:08,543 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-01 15:36:08,543 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-01 15:36:08,543 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-01 15:36:08,543 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-01 15:36:08,551 - root - INFO - Activating Custom process - number 3 
+2021-03-01 15:36:08,551 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-01 15:36:08,552 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-01 15:36:08,552 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-01 15:36:08,552 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-01 15:36:08,552 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-01 15:36:08,552 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-01 15:36:08,552 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-01 15:36:08,561 - root - INFO - Activating Custom process - number 4 
+2021-03-01 15:36:08,562 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-01 15:36:08,562 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-01 15:36:08,562 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-01 15:36:08,562 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-01 15:36:08,562 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-01 15:36:08,562 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-01 15:36:08,562 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-01 15:36:08,572 - root - INFO - Activating Custom process - number 5 
+2021-03-01 15:36:08,572 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-01 15:36:08,572 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-01 15:36:08,572 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-01 15:36:08,573 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-01 15:36:08,573 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-01 15:36:08,573 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-01 15:36:08,573 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-01 15:36:08,581 - root - INFO - Activating Custom process - number 6 
+2021-03-01 15:36:08,581 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-01 15:36:08,581 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-01 15:36:08,582 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-01 15:36:08,582 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-01 15:36:08,582 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-01 15:36:08,582 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-01 15:36:08,582 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-01 15:36:08,590 - root - INFO - Activating Custom process - number 7 
+2021-03-01 15:36:08,590 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-01 15:36:08,590 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-01 15:36:08,590 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-01 15:36:08,590 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-01 15:36:08,590 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-01 15:36:08,590 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-01 15:36:08,591 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-01 15:36:08,599 - root - INFO - Activating Custom process - number 8 
+2021-03-01 15:36:08,599 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-01 15:36:08,599 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-01 15:36:08,599 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-01 15:36:08,599 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-01 15:36:08,600 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-01 15:36:08,600 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-01 15:36:08,600 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-01 15:36:08,607 - root - INFO - Activating Custom process - number 9 
+2021-03-01 15:36:08,607 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-01 15:36:08,607 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-01 15:36:08,607 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-01 15:36:08,608 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-01 15:36:08,608 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-01 15:36:08,608 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-01 15:36:08,608 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-01 15:36:08,614 - root - INFO - Activating Custom process - number 10 
+2021-03-01 15:36:08,614 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-01 15:36:08,614 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-01 15:36:08,614 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-01 15:36:08,614 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-01 15:36:08,614 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-01 15:36:08,615 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-01 15:36:08,620 - root - INFO - Activating Custom process - number 11 
+2021-03-01 15:36:08,621 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-01 15:36:08,621 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-01 15:36:08,621 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-01 15:36:08,621 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-01 15:36:08,621 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-01 15:36:08,621 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-01 15:36:08,621 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-01 15:36:08,629 - root - INFO - Activating Custom process - number 12 
+2021-03-01 15:36:08,629 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-01 15:36:08,629 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-01 15:36:08,629 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-01 15:36:08,629 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-01 15:36:08,629 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-01 15:36:08,630 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-01 15:36:08,630 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-01 15:36:08,639 - root - INFO - Activating Custom process - number 13 
+2021-03-01 15:36:08,639 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-01 15:36:08,639 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-01 15:36:08,639 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-01 15:36:08,639 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-01 15:36:08,640 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-01 15:36:08,640 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-01 15:36:08,640 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-01 15:36:08,647 - root - INFO - Activating Custom process - number 14 
+2021-03-01 15:36:08,648 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-01 15:36:08,648 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-01 15:36:08,648 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-01 15:36:08,648 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-01 15:36:08,648 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-01 15:36:08,648 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-01 15:36:08,648 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-03 13:27:10,744 - root - INFO - Running experiment it: - 0
+2021-03-03 13:27:10,761 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:27:10,779 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:27:10,779 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-03 13:27:10,780 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-03 13:27:10,780 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-03 13:27:10,780 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-03 13:27:10,780 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-03 13:27:10,780 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-03 13:27:10,780 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-03 13:27:10,785 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:27:10,786 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-03 13:27:10,786 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-03 13:27:10,786 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-03 13:27:10,786 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-03 13:27:10,786 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-03 13:27:10,786 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-03 13:27:10,786 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-03 13:27:10,792 - root - INFO - Activating Custom process - number 2 
+2021-03-03 13:27:10,792 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-03 13:27:10,792 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-03 13:27:10,792 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-03 13:27:10,792 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-03 13:27:10,793 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-03 13:27:10,793 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-03 13:27:10,799 - root - INFO - Activating Custom process - number 3 
+2021-03-03 13:27:10,799 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-03 13:27:10,799 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-03 13:27:10,799 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-03 13:27:10,799 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-03 13:27:10,799 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-03 13:27:10,800 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-03 13:27:10,800 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-03 13:27:10,807 - root - INFO - Activating Custom process - number 4 
+2021-03-03 13:27:10,807 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-03 13:27:10,807 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-03 13:27:10,807 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-03 13:27:10,807 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-03 13:27:10,807 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-03 13:27:10,808 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-03 13:27:10,808 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-03 13:27:10,814 - root - INFO - Activating Custom process - number 5 
+2021-03-03 13:27:10,814 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-03 13:27:10,814 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-03 13:27:10,814 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-03 13:27:10,815 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-03 13:27:10,815 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-03 13:27:10,815 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-03 13:27:10,815 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-03 13:27:10,822 - root - INFO - Activating Custom process - number 6 
+2021-03-03 13:27:10,822 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-03 13:27:10,822 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-03 13:27:10,822 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-03 13:27:10,822 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-03 13:27:10,822 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-03 13:27:10,822 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-03 13:27:10,822 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-03 13:27:10,828 - root - INFO - Activating Custom process - number 7 
+2021-03-03 13:27:10,828 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-03 13:27:10,828 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-03 13:27:10,829 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-03 13:27:10,829 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-03 13:27:10,829 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-03 13:27:10,829 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-03 13:27:10,829 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-03 13:27:10,835 - root - INFO - Activating Custom process - number 8 
+2021-03-03 13:27:10,835 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-03 13:27:10,835 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-03 13:27:10,836 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-03 13:27:10,836 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-03 13:27:10,836 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-03 13:27:10,836 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-03 13:27:10,836 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-03 13:27:10,842 - root - INFO - Activating Custom process - number 9 
+2021-03-03 13:27:10,842 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-03 13:27:10,842 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-03 13:27:10,842 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-03 13:27:10,842 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-03 13:27:10,842 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-03 13:27:10,842 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-03 13:27:10,843 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-03 13:27:10,847 - root - INFO - Activating Custom process - number 10 
+2021-03-03 13:27:10,847 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-03 13:27:10,847 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-03 13:27:10,848 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-03 13:27:10,848 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-03 13:27:10,848 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-03 13:27:10,848 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-03 13:27:10,853 - root - INFO - Activating Custom process - number 11 
+2021-03-03 13:27:10,853 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-03 13:27:10,853 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-03 13:27:10,854 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-03 13:27:10,854 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-03 13:27:10,854 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-03 13:27:10,854 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-03 13:27:10,854 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-03 13:27:10,859 - root - INFO - Activating Custom process - number 12 
+2021-03-03 13:27:10,859 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-03 13:27:10,859 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-03 13:27:10,859 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-03 13:27:10,859 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-03 13:27:10,859 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-03 13:27:10,859 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-03 13:27:10,860 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-03 13:27:10,867 - root - INFO - Activating Custom process - number 13 
+2021-03-03 13:27:10,867 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-03 13:27:10,867 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-03 13:27:10,867 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-03 13:27:10,867 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-03 13:27:10,867 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-03 13:27:10,867 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-03 13:27:10,867 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-03 13:27:10,874 - root - INFO - Activating Custom process - number 14 
+2021-03-03 13:27:10,874 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-03 13:27:10,874 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-03 13:27:10,874 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-03 13:27:10,874 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-03 13:27:10,874 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-03 13:27:10,874 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-03 13:27:10,874 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-03 13:30:39,297 - root - INFO - Running experiment it: - 0
+2021-03-03 13:30:39,301 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:30:39,319 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:30:39,319 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-03 13:30:39,319 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-03 13:30:39,319 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-03 13:30:39,320 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-03 13:30:39,320 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-03 13:30:39,320 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-03 13:30:39,320 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-03 13:30:39,325 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:30:39,325 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-03 13:30:39,325 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-03 13:30:39,325 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-03 13:30:39,325 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-03 13:30:39,326 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-03 13:30:39,326 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-03 13:30:39,326 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-03 13:30:39,332 - root - INFO - Activating Custom process - number 2 
+2021-03-03 13:30:39,332 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-03 13:30:39,333 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-03 13:30:39,333 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-03 13:30:39,333 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-03 13:30:39,333 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-03 13:30:39,333 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-03 13:30:39,339 - root - INFO - Activating Custom process - number 3 
+2021-03-03 13:30:39,339 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-03 13:30:39,339 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-03 13:30:39,340 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-03 13:30:39,340 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-03 13:30:39,340 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-03 13:30:39,340 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-03 13:30:39,340 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-03 13:30:39,347 - root - INFO - Activating Custom process - number 4 
+2021-03-03 13:30:39,347 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-03 13:30:39,347 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-03 13:30:39,347 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-03 13:30:39,348 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-03 13:30:39,348 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-03 13:30:39,348 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-03 13:30:39,348 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-03 13:30:39,354 - root - INFO - Activating Custom process - number 5 
+2021-03-03 13:30:39,354 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-03 13:30:39,355 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-03 13:30:39,355 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-03 13:30:39,355 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-03 13:30:39,355 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-03 13:30:39,355 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-03 13:30:39,355 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-03 13:30:39,361 - root - INFO - Activating Custom process - number 6 
+2021-03-03 13:30:39,362 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-03 13:30:39,362 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-03 13:30:39,362 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-03 13:30:39,362 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-03 13:30:39,362 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-03 13:30:39,362 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-03 13:30:39,362 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-03 13:30:39,368 - root - INFO - Activating Custom process - number 7 
+2021-03-03 13:30:39,368 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-03 13:30:39,368 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-03 13:30:39,368 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-03 13:30:39,369 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-03 13:30:39,369 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-03 13:30:39,369 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-03 13:30:39,369 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-03 13:30:39,375 - root - INFO - Activating Custom process - number 8 
+2021-03-03 13:30:39,375 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-03 13:30:39,375 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-03 13:30:39,375 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-03 13:30:39,375 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-03 13:30:39,375 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-03 13:30:39,375 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-03 13:30:39,376 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-03 13:30:39,382 - root - INFO - Activating Custom process - number 9 
+2021-03-03 13:30:39,382 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-03 13:30:39,383 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-03 13:30:39,383 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-03 13:30:39,383 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-03 13:30:39,383 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-03 13:30:39,383 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-03 13:30:39,383 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-03 13:30:39,388 - root - INFO - Activating Custom process - number 10 
+2021-03-03 13:30:39,388 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-03 13:30:39,388 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-03 13:30:39,388 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-03 13:30:39,388 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-03 13:30:39,388 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-03 13:30:39,388 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-03 13:30:39,394 - root - INFO - Activating Custom process - number 11 
+2021-03-03 13:30:39,394 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-03 13:30:39,394 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-03 13:30:39,394 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-03 13:30:39,394 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-03 13:30:39,395 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-03 13:30:39,395 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-03 13:30:39,395 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-03 13:30:39,401 - root - INFO - Activating Custom process - number 12 
+2021-03-03 13:30:39,401 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-03 13:30:39,401 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-03 13:30:39,401 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-03 13:30:39,401 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-03 13:30:39,401 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-03 13:30:39,401 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-03 13:30:39,401 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-03 13:30:39,408 - root - INFO - Activating Custom process - number 13 
+2021-03-03 13:30:39,408 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-03 13:30:39,408 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-03 13:30:39,409 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-03 13:30:39,409 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-03 13:30:39,409 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-03 13:30:39,409 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-03 13:30:39,409 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-03 13:30:39,417 - root - INFO - Activating Custom process - number 14 
+2021-03-03 13:30:39,417 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-03 13:30:39,417 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-03 13:30:39,417 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-03 13:30:39,417 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-03 13:30:39,418 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-03 13:30:39,418 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-03 13:30:39,418 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-03 13:32:50,504 - root - INFO - Running experiment it: - 0
+2021-03-03 13:32:50,507 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:32:50,525 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:32:50,525 - root - INFO - Moving Service 0_01 from 0 to [23] node
+2021-03-03 13:32:50,525 - root - INFO - Moving Service 1_01 from 0 to [26] node
+2021-03-03 13:32:50,525 - root - INFO - Moving Service 2_01 from 0 to [2] node
+2021-03-03 13:32:50,525 - root - INFO - Moving Service 3_01 from 0 to [16] node
+2021-03-03 13:32:50,526 - root - INFO - Moving Service 4_01 from 0 to [31] node
+2021-03-03 13:32:50,526 - root - INFO - Moving Service 5_01 from 0 to [25] node
+2021-03-03 13:32:50,526 - root - INFO - Moving Service 6_01 from 0 to [20] node
+2021-03-03 13:32:50,526 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,526 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,526 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,526 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:32:50,526 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,526 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,526 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,526 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,527 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:32:50,528 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,529 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,529 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,529 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:32:50,529 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:32:50,542 - yafs.selection - WARNING - There is no path between two nodes: 1 - [23] 
+2021-03-03 13:32:50,542 - yafs.selection - WARNING - There is no path between two nodes: 2 - [26] 
+2021-03-03 13:32:50,542 - yafs.selection - WARNING - There is no path between two nodes: 3 - [2] 
+2021-03-03 13:32:50,542 - yafs.selection - WARNING - There is no path between two nodes: 4 - [16] 
+2021-03-03 13:35:10,285 - root - INFO - Running experiment it: - 0
+2021-03-03 13:35:10,288 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:35:10,305 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:35:10,305 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-03 13:35:10,306 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-03 13:35:10,306 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-03 13:35:10,306 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-03 13:35:10,306 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-03 13:35:10,306 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-03 13:35:10,306 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-03 13:35:10,311 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:35:10,311 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-03 13:35:10,312 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-03 13:35:10,312 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-03 13:35:10,312 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-03 13:35:10,312 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-03 13:35:10,312 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-03 13:35:10,312 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-03 13:35:10,318 - root - INFO - Activating Custom process - number 2 
+2021-03-03 13:35:10,318 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-03 13:35:10,318 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-03 13:35:10,318 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-03 13:35:10,318 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-03 13:35:10,318 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-03 13:35:10,318 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-03 13:35:10,325 - root - INFO - Activating Custom process - number 3 
+2021-03-03 13:35:10,325 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-03 13:35:10,325 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-03 13:35:10,325 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-03 13:35:10,325 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-03 13:35:10,326 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-03 13:35:10,326 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-03 13:35:10,326 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-03 13:35:10,333 - root - INFO - Activating Custom process - number 4 
+2021-03-03 13:35:10,333 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-03 13:35:10,333 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-03 13:35:10,333 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-03 13:35:10,333 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-03 13:35:10,333 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-03 13:35:10,333 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-03 13:35:10,333 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-03 13:35:10,340 - root - INFO - Activating Custom process - number 5 
+2021-03-03 13:35:10,340 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-03 13:35:10,340 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-03 13:35:10,340 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-03 13:35:10,340 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-03 13:35:10,340 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-03 13:35:10,340 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-03 13:35:10,340 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-03 13:35:10,347 - root - INFO - Activating Custom process - number 6 
+2021-03-03 13:35:10,347 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-03 13:35:10,347 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-03 13:35:10,347 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-03 13:35:10,347 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-03 13:35:10,347 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-03 13:35:10,347 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-03 13:35:10,347 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-03 13:35:10,353 - root - INFO - Activating Custom process - number 7 
+2021-03-03 13:35:10,353 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-03 13:35:10,353 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-03 13:35:10,354 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-03 13:35:10,354 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-03 13:35:10,354 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-03 13:35:10,354 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-03 13:35:10,354 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-03 13:35:10,360 - root - INFO - Activating Custom process - number 8 
+2021-03-03 13:35:10,360 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-03 13:35:10,360 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-03 13:35:10,360 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-03 13:35:10,360 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-03 13:35:10,360 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-03 13:35:10,361 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-03 13:35:10,361 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-03 13:35:10,366 - root - INFO - Activating Custom process - number 9 
+2021-03-03 13:35:10,366 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-03 13:35:10,366 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-03 13:35:10,367 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-03 13:35:10,367 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-03 13:35:10,367 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-03 13:35:10,367 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-03 13:35:10,367 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-03 13:35:10,372 - root - INFO - Activating Custom process - number 10 
+2021-03-03 13:35:10,372 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-03 13:35:10,372 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-03 13:35:10,372 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-03 13:35:10,372 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-03 13:35:10,372 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-03 13:35:10,372 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-03 13:35:10,378 - root - INFO - Activating Custom process - number 11 
+2021-03-03 13:35:10,378 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-03 13:35:10,378 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-03 13:35:10,378 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-03 13:35:10,378 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-03 13:35:10,378 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-03 13:35:10,378 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-03 13:35:10,378 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-03 13:35:10,384 - root - INFO - Activating Custom process - number 12 
+2021-03-03 13:35:10,384 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-03 13:35:10,384 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-03 13:35:10,385 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-03 13:35:10,385 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-03 13:35:10,385 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-03 13:35:10,385 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-03 13:35:10,385 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-03 13:35:10,392 - root - INFO - Activating Custom process - number 13 
+2021-03-03 13:35:10,392 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-03 13:35:10,392 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-03 13:35:10,392 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-03 13:35:10,392 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-03 13:35:10,392 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-03 13:35:10,393 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-03 13:35:10,393 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-03 13:35:10,399 - root - INFO - Activating Custom process - number 14 
+2021-03-03 13:35:10,399 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-03 13:35:10,399 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-03 13:35:10,399 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-03 13:35:10,399 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-03 13:35:10,399 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-03 13:35:10,399 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-03 13:35:10,399 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-03 13:35:20,543 - root - INFO - Running experiment it: - 0
+2021-03-03 13:35:20,547 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:35:20,565 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:35:20,565 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-03 13:35:20,565 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-03 13:35:20,565 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-03 13:35:20,565 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-03 13:35:20,565 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-03 13:35:20,565 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-03 13:35:20,565 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-03 13:35:20,571 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:35:20,571 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-03 13:35:20,571 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-03 13:35:20,571 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-03 13:35:20,571 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-03 13:35:20,571 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-03 13:35:20,571 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-03 13:35:20,571 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-03 13:35:20,577 - root - INFO - Activating Custom process - number 2 
+2021-03-03 13:35:20,577 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-03 13:35:20,577 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-03 13:35:20,578 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-03 13:35:20,578 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-03 13:35:20,578 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-03 13:35:20,578 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-03 13:35:20,584 - root - INFO - Activating Custom process - number 3 
+2021-03-03 13:35:20,584 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-03 13:35:20,584 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-03 13:35:20,585 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-03 13:35:20,585 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-03 13:35:20,585 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-03 13:35:20,585 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-03 13:35:20,585 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-03 13:35:20,592 - root - INFO - Activating Custom process - number 4 
+2021-03-03 13:35:20,592 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-03 13:35:20,592 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-03 13:35:20,592 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-03 13:35:20,592 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-03 13:35:20,592 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-03 13:35:20,593 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-03 13:35:20,593 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-03 13:35:20,598 - root - INFO - Activating Custom process - number 5 
+2021-03-03 13:35:20,598 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-03 13:35:20,598 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-03 13:35:20,598 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-03 13:35:20,598 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-03 13:35:20,598 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-03 13:35:20,598 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-03 13:35:20,599 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-03 13:35:20,605 - root - INFO - Activating Custom process - number 6 
+2021-03-03 13:35:20,606 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-03 13:35:20,606 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-03 13:35:20,606 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-03 13:35:20,606 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-03 13:35:20,606 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-03 13:35:20,606 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-03 13:35:20,606 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-03 13:35:20,612 - root - INFO - Activating Custom process - number 7 
+2021-03-03 13:35:20,612 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-03 13:35:20,612 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-03 13:35:20,612 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-03 13:35:20,612 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-03 13:35:20,613 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-03 13:35:20,613 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-03 13:35:20,613 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-03 13:35:20,619 - root - INFO - Activating Custom process - number 8 
+2021-03-03 13:35:20,619 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-03 13:35:20,619 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-03 13:35:20,619 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-03 13:35:20,620 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-03 13:35:20,620 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-03 13:35:20,620 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-03 13:35:20,620 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-03 13:35:20,626 - root - INFO - Activating Custom process - number 9 
+2021-03-03 13:35:20,626 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-03 13:35:20,626 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-03 13:35:20,626 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-03 13:35:20,626 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-03 13:35:20,626 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-03 13:35:20,626 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-03 13:35:20,626 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-03 13:35:20,631 - root - INFO - Activating Custom process - number 10 
+2021-03-03 13:35:20,631 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-03 13:35:20,631 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-03 13:35:20,632 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-03 13:35:20,632 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-03 13:35:20,632 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-03 13:35:20,632 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-03 13:35:20,637 - root - INFO - Activating Custom process - number 11 
+2021-03-03 13:35:20,637 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-03 13:35:20,637 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-03 13:35:20,638 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-03 13:35:20,638 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-03 13:35:20,638 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-03 13:35:20,638 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-03 13:35:20,638 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-03 13:35:20,644 - root - INFO - Activating Custom process - number 12 
+2021-03-03 13:35:20,644 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-03 13:35:20,644 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-03 13:35:20,644 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-03 13:35:20,644 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-03 13:35:20,644 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-03 13:35:20,644 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-03 13:35:20,644 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-03 13:35:20,651 - root - INFO - Activating Custom process - number 13 
+2021-03-03 13:35:20,652 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-03 13:35:20,652 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-03 13:35:20,652 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-03 13:35:20,652 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-03 13:35:20,652 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-03 13:35:20,652 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-03 13:35:20,652 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-03 13:35:20,658 - root - INFO - Activating Custom process - number 14 
+2021-03-03 13:35:20,658 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-03 13:35:20,658 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-03 13:35:20,658 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-03 13:35:20,658 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-03 13:35:20,659 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-03 13:35:20,659 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-03 13:35:20,659 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-03 13:35:53,997 - root - INFO - Running experiment it: - 0
+2021-03-03 13:35:54,001 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:35:54,019 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:35:54,019 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-03 13:35:54,019 - root - INFO - Moving Service 1_01 from 0 to 2 node
+2021-03-03 13:35:54,019 - root - INFO - Moving Service 2_01 from 0 to 31 node
+2021-03-03 13:35:54,019 - root - INFO - Moving Service 3_01 from 0 to 20 node
+2021-03-03 13:35:54,019 - root - INFO - Moving Service 4_01 from 0 to 21 node
+2021-03-03 13:35:54,019 - root - INFO - Moving Service 5_01 from 0 to 8 node
+2021-03-03 13:35:54,020 - root - INFO - Moving Service 6_01 from 0 to 8 node
+2021-03-03 13:35:54,026 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:35:54,026 - root - INFO - Moving Service 1_01 from 2 to 16 node
+2021-03-03 13:35:54,026 - root - INFO - Moving Service 5_01 from 8 to 20 node
+2021-03-03 13:35:54,026 - root - INFO - Moving Service 6_01 from 8 to 4 node
+2021-03-03 13:35:54,026 - root - INFO - Moving Service 3_01 from 20 to 30 node
+2021-03-03 13:35:54,026 - root - INFO - Moving Service 0_01 from 23 to 24 node
+2021-03-03 13:35:54,026 - root - INFO - Moving Service 2_01 from 31 to 30 node
+2021-03-03 13:35:54,033 - root - INFO - Activating Custom process - number 2 
+2021-03-03 13:35:54,033 - root - INFO - Moving Service 6_01 from 4 to 16 node
+2021-03-03 13:35:54,033 - root - INFO - Moving Service 1_01 from 16 to 0 node
+2021-03-03 13:35:54,033 - root - INFO - Moving Service 5_01 from 20 to 25 node
+2021-03-03 13:35:54,034 - root - INFO - Moving Service 0_01 from 24 to 31 node
+2021-03-03 13:35:54,034 - root - INFO - Moving Service 4_01 from 21 to 15 node
+2021-03-03 13:35:54,034 - root - INFO - Moving Service 2_01 from 30 to 4 node
+2021-03-03 13:35:54,034 - root - INFO - Moving Service 3_01 from 30 to 14 node
+2021-03-03 13:35:54,040 - root - INFO - Activating Custom process - number 3 
+2021-03-03 13:35:54,040 - root - INFO - Moving Service 1_01 from 0 to 9 node
+2021-03-03 13:35:54,040 - root - INFO - Moving Service 2_01 from 4 to 5 node
+2021-03-03 13:35:54,040 - root - INFO - Moving Service 3_01 from 14 to 24 node
+2021-03-03 13:35:54,040 - root - INFO - Moving Service 4_01 from 15 to 6 node
+2021-03-03 13:35:54,040 - root - INFO - Moving Service 6_01 from 16 to 18 node
+2021-03-03 13:35:54,040 - root - INFO - Moving Service 5_01 from 25 to 19 node
+2021-03-03 13:35:54,040 - root - INFO - Moving Service 0_01 from 31 to 18 node
+2021-03-03 13:35:54,046 - root - INFO - Activating Custom process - number 4 
+2021-03-03 13:35:54,046 - root - INFO - Moving Service 4_01 from 6 to 24 node
+2021-03-03 13:35:54,046 - root - INFO - Moving Service 1_01 from 9 to 18 node
+2021-03-03 13:35:54,046 - root - INFO - Moving Service 0_01 from 18 to 11 node
+2021-03-03 13:35:54,046 - root - INFO - Moving Service 6_01 from 18 to 2 node
+2021-03-03 13:35:54,047 - root - INFO - Moving Service 3_01 from 24 to 30 node
+2021-03-03 13:35:54,047 - root - INFO - Moving Service 5_01 from 19 to 5 node
+2021-03-03 13:35:54,054 - root - INFO - Activating Custom process - number 5 
+2021-03-03 13:35:54,054 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-03 13:35:54,054 - root - INFO - Moving Service 5_01 from 5 to 17 node
+2021-03-03 13:35:54,055 - root - INFO - Moving Service 0_01 from 11 to 13 node
+2021-03-03 13:35:54,055 - root - INFO - Moving Service 1_01 from 18 to 17 node
+2021-03-03 13:35:54,055 - root - INFO - Moving Service 4_01 from 24 to 31 node
+2021-03-03 13:35:54,055 - root - INFO - Moving Service 3_01 from 30 to 5 node
+2021-03-03 13:35:54,060 - root - INFO - Activating Custom process - number 6 
+2021-03-03 13:35:54,061 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-03 13:35:54,061 - root - INFO - Moving Service 3_01 from 5 to 19 node
+2021-03-03 13:35:54,061 - root - INFO - Moving Service 6_01 from 9 to 15 node
+2021-03-03 13:35:54,061 - root - INFO - Moving Service 0_01 from 13 to 17 node
+2021-03-03 13:35:54,061 - root - INFO - Moving Service 1_01 from 17 to 14 node
+2021-03-03 13:35:54,061 - root - INFO - Moving Service 5_01 from 17 to 10 node
+2021-03-03 13:35:54,061 - root - INFO - Moving Service 4_01 from 31 to 28 node
+2021-03-03 13:35:54,067 - root - INFO - Activating Custom process - number 7 
+2021-03-03 13:35:54,068 - root - INFO - Moving Service 2_01 from 7 to 6 node
+2021-03-03 13:35:54,068 - root - INFO - Moving Service 5_01 from 10 to 14 node
+2021-03-03 13:35:54,068 - root - INFO - Moving Service 1_01 from 14 to 4 node
+2021-03-03 13:35:54,068 - root - INFO - Moving Service 6_01 from 15 to 7 node
+2021-03-03 13:35:54,068 - root - INFO - Moving Service 0_01 from 17 to 7 node
+2021-03-03 13:35:54,068 - root - INFO - Moving Service 3_01 from 19 to 5 node
+2021-03-03 13:35:54,068 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-03 13:35:54,073 - root - INFO - Activating Custom process - number 8 
+2021-03-03 13:35:54,073 - root - INFO - Moving Service 1_01 from 4 to 1 node
+2021-03-03 13:35:54,074 - root - INFO - Moving Service 3_01 from 5 to 12 node
+2021-03-03 13:35:54,074 - root - INFO - Moving Service 2_01 from 6 to 30 node
+2021-03-03 13:35:54,074 - root - INFO - Moving Service 0_01 from 7 to 3 node
+2021-03-03 13:35:54,074 - root - INFO - Moving Service 4_01 from 7 to 28 node
+2021-03-03 13:35:54,074 - root - INFO - Moving Service 6_01 from 7 to 16 node
+2021-03-03 13:35:54,080 - root - INFO - Activating Custom process - number 9 
+2021-03-03 13:35:54,080 - root - INFO - Moving Service 1_01 from 1 to 20 node
+2021-03-03 13:35:54,080 - root - INFO - Moving Service 0_01 from 3 to 28 node
+2021-03-03 13:35:54,080 - root - INFO - Moving Service 3_01 from 12 to 3 node
+2021-03-03 13:35:54,080 - root - INFO - Moving Service 5_01 from 14 to 2 node
+2021-03-03 13:35:54,080 - root - INFO - Moving Service 6_01 from 16 to 25 node
+2021-03-03 13:35:54,081 - root - INFO - Moving Service 4_01 from 28 to 16 node
+2021-03-03 13:35:54,087 - root - INFO - Activating Custom process - number 10 
+2021-03-03 13:35:54,087 - root - INFO - Moving Service 5_01 from 2 to 13 node
+2021-03-03 13:35:54,087 - root - INFO - Moving Service 3_01 from 3 to 10 node
+2021-03-03 13:35:54,087 - root - INFO - Moving Service 4_01 from 16 to 19 node
+2021-03-03 13:35:54,087 - root - INFO - Moving Service 1_01 from 20 to 7 node
+2021-03-03 13:35:54,087 - root - INFO - Moving Service 6_01 from 25 to 12 node
+2021-03-03 13:35:54,087 - root - INFO - Moving Service 0_01 from 28 to 30 node
+2021-03-03 13:35:54,088 - root - INFO - Moving Service 2_01 from 30 to 20 node
+2021-03-03 13:35:54,094 - root - INFO - Activating Custom process - number 11 
+2021-03-03 13:35:54,094 - root - INFO - Moving Service 1_01 from 7 to 23 node
+2021-03-03 13:35:54,094 - root - INFO - Moving Service 3_01 from 10 to 9 node
+2021-03-03 13:35:54,094 - root - INFO - Moving Service 6_01 from 12 to 29 node
+2021-03-03 13:35:54,094 - root - INFO - Moving Service 5_01 from 13 to 19 node
+2021-03-03 13:35:54,094 - root - INFO - Moving Service 2_01 from 20 to 17 node
+2021-03-03 13:35:54,094 - root - INFO - Moving Service 4_01 from 19 to 15 node
+2021-03-03 13:35:54,095 - root - INFO - Moving Service 0_01 from 30 to 21 node
+2021-03-03 13:35:54,101 - root - INFO - Activating Custom process - number 12 
+2021-03-03 13:35:54,101 - root - INFO - Moving Service 3_01 from 9 to 21 node
+2021-03-03 13:35:54,101 - root - INFO - Moving Service 4_01 from 15 to 20 node
+2021-03-03 13:35:54,101 - root - INFO - Moving Service 2_01 from 17 to 26 node
+2021-03-03 13:35:54,101 - root - INFO - Moving Service 5_01 from 19 to 0 node
+2021-03-03 13:35:54,101 - root - INFO - Moving Service 0_01 from 21 to 19 node
+2021-03-03 13:35:54,102 - root - INFO - Moving Service 1_01 from 23 to 15 node
+2021-03-03 13:35:54,102 - root - INFO - Moving Service 6_01 from 29 to 27 node
+2021-03-03 13:35:54,108 - root - INFO - Activating Custom process - number 13 
+2021-03-03 13:35:54,108 - root - INFO - Moving Service 5_01 from 0 to 26 node
+2021-03-03 13:35:54,108 - root - INFO - Moving Service 1_01 from 15 to 25 node
+2021-03-03 13:35:54,109 - root - INFO - Moving Service 4_01 from 20 to 2 node
+2021-03-03 13:35:54,109 - root - INFO - Moving Service 0_01 from 19 to 27 node
+2021-03-03 13:35:54,109 - root - INFO - Moving Service 3_01 from 21 to 16 node
+2021-03-03 13:35:54,109 - root - INFO - Moving Service 2_01 from 26 to 27 node
+2021-03-03 13:35:54,109 - root - INFO - Moving Service 6_01 from 27 to 0 node
+2021-03-03 13:35:54,117 - root - INFO - Activating Custom process - number 14 
+2021-03-03 13:35:54,117 - root - INFO - Moving Service 6_01 from 0 to 31 node
+2021-03-03 13:35:54,117 - root - INFO - Moving Service 4_01 from 2 to 20 node
+2021-03-03 13:35:54,117 - root - INFO - Moving Service 3_01 from 16 to 3 node
+2021-03-03 13:35:54,118 - root - INFO - Moving Service 1_01 from 25 to 11 node
+2021-03-03 13:35:54,118 - root - INFO - Moving Service 5_01 from 26 to 8 node
+2021-03-03 13:35:54,118 - root - INFO - Moving Service 0_01 from 27 to 25 node
+2021-03-03 13:35:54,118 - root - INFO - Moving Service 2_01 from 27 to 24 node
+2021-03-03 13:36:14,321 - root - INFO - Running experiment it: - 0
+2021-03-03 13:36:14,324 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:36:14,341 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:36:14,341 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-03 13:36:14,341 - root - INFO - Moving Service 1_01 from 0 to 2 node
+2021-03-03 13:36:14,342 - root - INFO - Moving Service 2_01 from 0 to 31 node
+2021-03-03 13:36:14,342 - root - INFO - Moving Service 3_01 from 0 to 20 node
+2021-03-03 13:36:14,342 - root - INFO - Moving Service 4_01 from 0 to 21 node
+2021-03-03 13:36:14,342 - root - INFO - Moving Service 5_01 from 0 to 8 node
+2021-03-03 13:36:14,342 - root - INFO - Moving Service 6_01 from 0 to 8 node
+2021-03-03 13:36:14,348 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:36:14,348 - root - INFO - Moving Service 1_01 from 2 to 16 node
+2021-03-03 13:36:14,348 - root - INFO - Moving Service 5_01 from 8 to 20 node
+2021-03-03 13:36:14,348 - root - INFO - Moving Service 6_01 from 8 to 4 node
+2021-03-03 13:36:14,348 - root - INFO - Moving Service 3_01 from 20 to 30 node
+2021-03-03 13:36:14,348 - root - INFO - Moving Service 0_01 from 23 to 24 node
+2021-03-03 13:36:14,349 - root - INFO - Moving Service 2_01 from 31 to 30 node
+2021-03-03 13:36:14,355 - root - INFO - Activating Custom process - number 2 
+2021-03-03 13:36:14,355 - root - INFO - Moving Service 6_01 from 4 to 16 node
+2021-03-03 13:36:14,355 - root - INFO - Moving Service 1_01 from 16 to 0 node
+2021-03-03 13:36:14,355 - root - INFO - Moving Service 5_01 from 20 to 25 node
+2021-03-03 13:36:14,355 - root - INFO - Moving Service 0_01 from 24 to 31 node
+2021-03-03 13:36:14,355 - root - INFO - Moving Service 4_01 from 21 to 15 node
+2021-03-03 13:36:14,356 - root - INFO - Moving Service 2_01 from 30 to 4 node
+2021-03-03 13:36:14,356 - root - INFO - Moving Service 3_01 from 30 to 14 node
+2021-03-03 13:36:14,361 - root - INFO - Activating Custom process - number 3 
+2021-03-03 13:36:14,361 - root - INFO - Moving Service 1_01 from 0 to 9 node
+2021-03-03 13:36:14,362 - root - INFO - Moving Service 2_01 from 4 to 5 node
+2021-03-03 13:36:14,362 - root - INFO - Moving Service 3_01 from 14 to 24 node
+2021-03-03 13:36:14,362 - root - INFO - Moving Service 4_01 from 15 to 6 node
+2021-03-03 13:36:14,362 - root - INFO - Moving Service 6_01 from 16 to 18 node
+2021-03-03 13:36:14,362 - root - INFO - Moving Service 5_01 from 25 to 19 node
+2021-03-03 13:36:14,362 - root - INFO - Moving Service 0_01 from 31 to 18 node
+2021-03-03 13:36:14,367 - root - INFO - Activating Custom process - number 4 
+2021-03-03 13:36:14,368 - root - INFO - Moving Service 4_01 from 6 to 24 node
+2021-03-03 13:36:14,368 - root - INFO - Moving Service 1_01 from 9 to 18 node
+2021-03-03 13:36:14,368 - root - INFO - Moving Service 0_01 from 18 to 11 node
+2021-03-03 13:36:14,368 - root - INFO - Moving Service 6_01 from 18 to 2 node
+2021-03-03 13:36:14,368 - root - INFO - Moving Service 3_01 from 24 to 30 node
+2021-03-03 13:36:14,368 - root - INFO - Moving Service 5_01 from 19 to 5 node
+2021-03-03 13:36:14,376 - root - INFO - Activating Custom process - number 5 
+2021-03-03 13:36:14,376 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-03 13:36:14,376 - root - INFO - Moving Service 5_01 from 5 to 17 node
+2021-03-03 13:36:14,376 - root - INFO - Moving Service 0_01 from 11 to 13 node
+2021-03-03 13:36:14,376 - root - INFO - Moving Service 1_01 from 18 to 17 node
+2021-03-03 13:36:14,376 - root - INFO - Moving Service 4_01 from 24 to 31 node
+2021-03-03 13:36:14,376 - root - INFO - Moving Service 3_01 from 30 to 5 node
+2021-03-03 13:36:14,382 - root - INFO - Activating Custom process - number 6 
+2021-03-03 13:36:14,382 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-03 13:36:14,382 - root - INFO - Moving Service 3_01 from 5 to 19 node
+2021-03-03 13:36:14,382 - root - INFO - Moving Service 6_01 from 9 to 15 node
+2021-03-03 13:36:14,383 - root - INFO - Moving Service 0_01 from 13 to 17 node
+2021-03-03 13:36:14,383 - root - INFO - Moving Service 1_01 from 17 to 14 node
+2021-03-03 13:36:14,383 - root - INFO - Moving Service 5_01 from 17 to 10 node
+2021-03-03 13:36:14,383 - root - INFO - Moving Service 4_01 from 31 to 28 node
+2021-03-03 13:36:14,389 - root - INFO - Activating Custom process - number 7 
+2021-03-03 13:36:14,390 - root - INFO - Moving Service 2_01 from 7 to 6 node
+2021-03-03 13:36:14,390 - root - INFO - Moving Service 5_01 from 10 to 14 node
+2021-03-03 13:36:14,390 - root - INFO - Moving Service 1_01 from 14 to 4 node
+2021-03-03 13:36:14,390 - root - INFO - Moving Service 6_01 from 15 to 7 node
+2021-03-03 13:36:14,390 - root - INFO - Moving Service 0_01 from 17 to 7 node
+2021-03-03 13:36:14,390 - root - INFO - Moving Service 3_01 from 19 to 5 node
+2021-03-03 13:36:14,390 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-03 13:36:14,395 - root - INFO - Activating Custom process - number 8 
+2021-03-03 13:36:14,396 - root - INFO - Moving Service 1_01 from 4 to 1 node
+2021-03-03 13:36:14,396 - root - INFO - Moving Service 3_01 from 5 to 12 node
+2021-03-03 13:36:14,396 - root - INFO - Moving Service 2_01 from 6 to 30 node
+2021-03-03 13:36:14,396 - root - INFO - Moving Service 0_01 from 7 to 3 node
+2021-03-03 13:36:14,396 - root - INFO - Moving Service 4_01 from 7 to 28 node
+2021-03-03 13:36:14,396 - root - INFO - Moving Service 6_01 from 7 to 16 node
+2021-03-03 13:36:14,402 - root - INFO - Activating Custom process - number 9 
+2021-03-03 13:36:14,402 - root - INFO - Moving Service 1_01 from 1 to 20 node
+2021-03-03 13:36:14,402 - root - INFO - Moving Service 0_01 from 3 to 28 node
+2021-03-03 13:36:14,402 - root - INFO - Moving Service 3_01 from 12 to 3 node
+2021-03-03 13:36:14,403 - root - INFO - Moving Service 5_01 from 14 to 2 node
+2021-03-03 13:36:14,403 - root - INFO - Moving Service 6_01 from 16 to 25 node
+2021-03-03 13:36:14,403 - root - INFO - Moving Service 4_01 from 28 to 16 node
+2021-03-03 13:36:14,409 - root - INFO - Activating Custom process - number 10 
+2021-03-03 13:36:14,409 - root - INFO - Moving Service 5_01 from 2 to 13 node
+2021-03-03 13:36:14,410 - root - INFO - Moving Service 3_01 from 3 to 10 node
+2021-03-03 13:36:14,410 - root - INFO - Moving Service 4_01 from 16 to 19 node
+2021-03-03 13:36:14,410 - root - INFO - Moving Service 1_01 from 20 to 7 node
+2021-03-03 13:36:14,410 - root - INFO - Moving Service 6_01 from 25 to 12 node
+2021-03-03 13:36:14,410 - root - INFO - Moving Service 0_01 from 28 to 30 node
+2021-03-03 13:36:14,410 - root - INFO - Moving Service 2_01 from 30 to 20 node
+2021-03-03 13:36:14,416 - root - INFO - Activating Custom process - number 11 
+2021-03-03 13:36:14,417 - root - INFO - Moving Service 1_01 from 7 to 23 node
+2021-03-03 13:36:14,417 - root - INFO - Moving Service 3_01 from 10 to 9 node
+2021-03-03 13:36:14,417 - root - INFO - Moving Service 6_01 from 12 to 29 node
+2021-03-03 13:36:14,417 - root - INFO - Moving Service 5_01 from 13 to 19 node
+2021-03-03 13:36:14,417 - root - INFO - Moving Service 2_01 from 20 to 17 node
+2021-03-03 13:36:14,417 - root - INFO - Moving Service 4_01 from 19 to 15 node
+2021-03-03 13:36:14,417 - root - INFO - Moving Service 0_01 from 30 to 21 node
+2021-03-03 13:36:14,424 - root - INFO - Activating Custom process - number 12 
+2021-03-03 13:36:14,424 - root - INFO - Moving Service 3_01 from 9 to 21 node
+2021-03-03 13:36:14,424 - root - INFO - Moving Service 4_01 from 15 to 20 node
+2021-03-03 13:36:14,424 - root - INFO - Moving Service 2_01 from 17 to 26 node
+2021-03-03 13:36:14,424 - root - INFO - Moving Service 5_01 from 19 to 0 node
+2021-03-03 13:36:14,424 - root - INFO - Moving Service 0_01 from 21 to 19 node
+2021-03-03 13:36:14,424 - root - INFO - Moving Service 1_01 from 23 to 15 node
+2021-03-03 13:36:14,425 - root - INFO - Moving Service 6_01 from 29 to 27 node
+2021-03-03 13:36:14,432 - root - INFO - Activating Custom process - number 13 
+2021-03-03 13:36:14,432 - root - INFO - Moving Service 5_01 from 0 to 26 node
+2021-03-03 13:36:14,432 - root - INFO - Moving Service 1_01 from 15 to 25 node
+2021-03-03 13:36:14,432 - root - INFO - Moving Service 4_01 from 20 to 2 node
+2021-03-03 13:36:14,432 - root - INFO - Moving Service 0_01 from 19 to 27 node
+2021-03-03 13:36:14,432 - root - INFO - Moving Service 3_01 from 21 to 16 node
+2021-03-03 13:36:14,432 - root - INFO - Moving Service 2_01 from 26 to 27 node
+2021-03-03 13:36:14,432 - root - INFO - Moving Service 6_01 from 27 to 0 node
+2021-03-03 13:36:14,439 - root - INFO - Activating Custom process - number 14 
+2021-03-03 13:36:14,439 - root - INFO - Moving Service 6_01 from 0 to 31 node
+2021-03-03 13:36:14,439 - root - INFO - Moving Service 4_01 from 2 to 20 node
+2021-03-03 13:36:14,439 - root - INFO - Moving Service 3_01 from 16 to 3 node
+2021-03-03 13:36:14,440 - root - INFO - Moving Service 1_01 from 25 to 11 node
+2021-03-03 13:36:14,440 - root - INFO - Moving Service 5_01 from 26 to 8 node
+2021-03-03 13:36:14,440 - root - INFO - Moving Service 0_01 from 27 to 25 node
+2021-03-03 13:36:14,440 - root - INFO - Moving Service 2_01 from 27 to 24 node
+2021-03-03 13:37:13,195 - root - INFO - Running experiment it: - 0
+2021-03-03 13:37:13,198 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:37:13,215 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:37:13,216 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-03 13:37:13,216 - root - INFO - Moving Service 1_01 from 0 to 16 node
+2021-03-03 13:37:13,216 - root - INFO - Moving Service 2_01 from 0 to 20 node
+2021-03-03 13:37:13,216 - root - INFO - Moving Service 3_01 from 0 to 13 node
+2021-03-03 13:37:13,216 - root - INFO - Moving Service 4_01 from 0 to 8 node
+2021-03-03 13:37:13,216 - root - INFO - Moving Service 5_01 from 0 to 9 node
+2021-03-03 13:37:13,216 - root - INFO - Moving Service 6_01 from 0 to 4 node
+2021-03-03 13:37:13,223 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:37:13,223 - root - INFO - Moving Service 6_01 from 4 to 6 node
+2021-03-03 13:37:13,223 - root - INFO - Moving Service 4_01 from 8 to 24 node
+2021-03-03 13:37:13,223 - root - INFO - Moving Service 5_01 from 9 to 27 node
+2021-03-03 13:37:13,223 - root - INFO - Moving Service 3_01 from 13 to 0 node
+2021-03-03 13:37:13,223 - root - INFO - Moving Service 1_01 from 16 to 0 node
+2021-03-03 13:37:13,223 - root - INFO - Moving Service 2_01 from 20 to 15 node
+2021-03-03 13:37:13,223 - root - INFO - Moving Service 0_01 from 23 to 11 node
+2021-03-03 13:37:13,229 - root - INFO - Activating Custom process - number 2 
+2021-03-03 13:37:13,229 - root - INFO - Moving Service 1_01 from 0 to 9 node
+2021-03-03 13:37:13,229 - root - INFO - Moving Service 3_01 from 0 to 5 node
+2021-03-03 13:37:13,229 - root - INFO - Moving Service 0_01 from 11 to 7 node
+2021-03-03 13:37:13,229 - root - INFO - Moving Service 2_01 from 15 to 18 node
+2021-03-03 13:37:13,229 - root - INFO - Moving Service 4_01 from 24 to 23 node
+2021-03-03 13:37:13,229 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-03 13:37:13,235 - root - INFO - Activating Custom process - number 3 
+2021-03-03 13:37:13,235 - root - INFO - Moving Service 3_01 from 5 to 12 node
+2021-03-03 13:37:13,235 - root - INFO - Moving Service 6_01 from 6 to 30 node
+2021-03-03 13:37:13,235 - root - INFO - Moving Service 0_01 from 7 to 8 node
+2021-03-03 13:37:13,235 - root - INFO - Moving Service 1_01 from 9 to 5 node
+2021-03-03 13:37:13,235 - root - INFO - Moving Service 2_01 from 18 to 15 node
+2021-03-03 13:37:13,235 - root - INFO - Moving Service 5_01 from 18 to 17 node
+2021-03-03 13:37:13,235 - root - INFO - Moving Service 4_01 from 23 to 21 node
+2021-03-03 13:37:13,241 - root - INFO - Activating Custom process - number 4 
+2021-03-03 13:37:13,242 - root - INFO - Moving Service 1_01 from 5 to 7 node
+2021-03-03 13:37:13,242 - root - INFO - Moving Service 0_01 from 8 to 11 node
+2021-03-03 13:37:13,242 - root - INFO - Moving Service 3_01 from 12 to 17 node
+2021-03-03 13:37:13,242 - root - INFO - Moving Service 2_01 from 15 to 22 node
+2021-03-03 13:37:13,242 - root - INFO - Moving Service 5_01 from 17 to 28 node
+2021-03-03 13:37:13,242 - root - INFO - Moving Service 4_01 from 21 to 9 node
+2021-03-03 13:37:13,242 - root - INFO - Moving Service 6_01 from 30 to 4 node
+2021-03-03 13:37:13,249 - root - INFO - Activating Custom process - number 5 
+2021-03-03 13:37:13,249 - root - INFO - Moving Service 6_01 from 4 to 11 node
+2021-03-03 13:37:13,249 - root - INFO - Moving Service 1_01 from 7 to 5 node
+2021-03-03 13:37:13,249 - root - INFO - Moving Service 4_01 from 9 to 2 node
+2021-03-03 13:37:13,249 - root - INFO - Moving Service 0_01 from 11 to 12 node
+2021-03-03 13:37:13,250 - root - INFO - Moving Service 3_01 from 17 to 13 node
+2021-03-03 13:37:13,250 - root - INFO - Moving Service 2_01 from 22 to 28 node
+2021-03-03 13:37:13,250 - root - INFO - Moving Service 5_01 from 28 to 4 node
+2021-03-03 13:37:13,256 - root - INFO - Activating Custom process - number 6 
+2021-03-03 13:37:13,256 - root - INFO - Moving Service 4_01 from 2 to 20 node
+2021-03-03 13:37:13,256 - root - INFO - Moving Service 5_01 from 4 to 12 node
+2021-03-03 13:37:13,256 - root - INFO - Moving Service 1_01 from 5 to 2 node
+2021-03-03 13:37:13,256 - root - INFO - Moving Service 0_01 from 12 to 11 node
+2021-03-03 13:37:13,257 - root - INFO - Moving Service 6_01 from 11 to 30 node
+2021-03-03 13:37:13,257 - root - INFO - Moving Service 3_01 from 13 to 3 node
+2021-03-03 13:37:13,257 - root - INFO - Moving Service 2_01 from 28 to 16 node
+2021-03-03 13:37:13,262 - root - INFO - Activating Custom process - number 7 
+2021-03-03 13:37:13,262 - root - INFO - Moving Service 1_01 from 2 to 12 node
+2021-03-03 13:37:13,262 - root - INFO - Moving Service 3_01 from 3 to 26 node
+2021-03-03 13:37:13,262 - root - INFO - Moving Service 5_01 from 12 to 23 node
+2021-03-03 13:37:13,262 - root - INFO - Moving Service 0_01 from 11 to 0 node
+2021-03-03 13:37:13,262 - root - INFO - Moving Service 2_01 from 16 to 19 node
+2021-03-03 13:37:13,262 - root - INFO - Moving Service 4_01 from 20 to 8 node
+2021-03-03 13:37:13,262 - root - INFO - Moving Service 6_01 from 30 to 21 node
+2021-03-03 13:37:13,268 - root - INFO - Activating Custom process - number 8 
+2021-03-03 13:37:13,268 - root - INFO - Moving Service 0_01 from 0 to 8 node
+2021-03-03 13:37:13,268 - root - INFO - Moving Service 4_01 from 8 to 26 node
+2021-03-03 13:37:13,268 - root - INFO - Moving Service 1_01 from 12 to 11 node
+2021-03-03 13:37:13,268 - root - INFO - Moving Service 2_01 from 19 to 15 node
+2021-03-03 13:37:13,269 - root - INFO - Moving Service 6_01 from 21 to 23 node
+2021-03-03 13:37:13,269 - root - INFO - Moving Service 5_01 from 23 to 25 node
+2021-03-03 13:37:13,269 - root - INFO - Moving Service 3_01 from 26 to 10 node
+2021-03-03 13:37:13,275 - root - INFO - Activating Custom process - number 9 
+2021-03-03 13:37:13,275 - root - INFO - Moving Service 0_01 from 8 to 16 node
+2021-03-03 13:37:13,275 - root - INFO - Moving Service 3_01 from 10 to 31 node
+2021-03-03 13:37:13,275 - root - INFO - Moving Service 1_01 from 11 to 31 node
+2021-03-03 13:37:13,275 - root - INFO - Moving Service 2_01 from 15 to 29 node
+2021-03-03 13:37:13,276 - root - INFO - Moving Service 6_01 from 23 to 11 node
+2021-03-03 13:37:13,276 - root - INFO - Moving Service 5_01 from 25 to 0 node
+2021-03-03 13:37:13,276 - root - INFO - Moving Service 4_01 from 26 to 24 node
+2021-03-03 13:37:13,282 - root - INFO - Activating Custom process - number 10 
+2021-03-03 13:37:13,282 - root - INFO - Moving Service 0_01 from 16 to 20 node
+2021-03-03 13:37:13,282 - root - INFO - Moving Service 4_01 from 24 to 6 node
+2021-03-03 13:37:13,282 - root - INFO - Moving Service 2_01 from 29 to 5 node
+2021-03-03 13:37:13,282 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-03 13:37:13,283 - root - INFO - Moving Service 3_01 from 31 to 8 node
+2021-03-03 13:37:13,289 - root - INFO - Activating Custom process - number 11 
+2021-03-03 13:37:13,289 - root - INFO - Moving Service 5_01 from 0 to 9 node
+2021-03-03 13:37:13,289 - root - INFO - Moving Service 2_01 from 5 to 2 node
+2021-03-03 13:37:13,289 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-03 13:37:13,289 - root - INFO - Moving Service 3_01 from 8 to 2 node
+2021-03-03 13:37:13,289 - root - INFO - Moving Service 6_01 from 11 to 28 node
+2021-03-03 13:37:13,289 - root - INFO - Moving Service 0_01 from 20 to 13 node
+2021-03-03 13:37:13,289 - root - INFO - Moving Service 1_01 from 27 to 0 node
+2021-03-03 13:37:13,294 - root - INFO - Activating Custom process - number 12 
+2021-03-03 13:37:13,294 - root - INFO - Moving Service 1_01 from 0 to 17 node
+2021-03-03 13:37:13,294 - root - INFO - Moving Service 2_01 from 2 to 5 node
+2021-03-03 13:37:13,294 - root - INFO - Moving Service 0_01 from 13 to 25 node
+2021-03-03 13:37:13,294 - root - INFO - Moving Service 4_01 from 16 to 7 node
+2021-03-03 13:37:13,294 - root - INFO - Moving Service 6_01 from 28 to 3 node
+2021-03-03 13:37:13,300 - root - INFO - Activating Custom process - number 13 
+2021-03-03 13:37:13,300 - root - INFO - Moving Service 3_01 from 2 to 4 node
+2021-03-03 13:37:13,300 - root - INFO - Moving Service 6_01 from 3 to 19 node
+2021-03-03 13:37:13,300 - root - INFO - Moving Service 2_01 from 5 to 6 node
+2021-03-03 13:37:13,300 - root - INFO - Moving Service 4_01 from 7 to 30 node
+2021-03-03 13:37:13,301 - root - INFO - Moving Service 5_01 from 9 to 30 node
+2021-03-03 13:37:13,301 - root - INFO - Moving Service 1_01 from 17 to 28 node
+2021-03-03 13:37:13,301 - root - INFO - Moving Service 0_01 from 25 to 19 node
+2021-03-03 13:37:13,306 - root - INFO - Activating Custom process - number 14 
+2021-03-03 13:37:13,306 - root - INFO - Moving Service 3_01 from 4 to 23 node
+2021-03-03 13:37:13,306 - root - INFO - Moving Service 2_01 from 6 to 5 node
+2021-03-03 13:37:13,307 - root - INFO - Moving Service 0_01 from 19 to 3 node
+2021-03-03 13:37:13,307 - root - INFO - Moving Service 6_01 from 19 to 6 node
+2021-03-03 13:37:13,307 - root - INFO - Moving Service 1_01 from 28 to 27 node
+2021-03-03 13:37:13,307 - root - INFO - Moving Service 4_01 from 30 to 28 node
+2021-03-03 13:37:13,307 - root - INFO - Moving Service 5_01 from 30 to 14 node
+2021-03-03 13:37:34,593 - root - INFO - Running experiment it: - 0
+2021-03-03 13:37:34,597 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:37:34,615 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:37:34,615 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-03 13:37:34,615 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-03 13:37:34,615 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-03 13:37:34,615 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-03 13:37:34,615 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-03 13:37:34,616 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-03 13:37:34,616 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-03 13:37:34,621 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:37:34,621 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-03 13:37:34,621 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-03 13:37:34,621 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-03 13:37:34,621 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-03 13:37:34,622 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-03 13:37:34,622 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-03 13:37:34,622 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-03 13:37:34,628 - root - INFO - Activating Custom process - number 2 
+2021-03-03 13:37:34,628 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-03 13:37:34,628 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-03 13:37:34,628 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-03 13:37:34,628 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-03 13:37:34,628 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-03 13:37:34,628 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-03 13:37:34,635 - root - INFO - Activating Custom process - number 3 
+2021-03-03 13:37:34,635 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-03 13:37:34,635 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-03 13:37:34,635 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-03 13:37:34,635 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-03 13:37:34,635 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-03 13:37:34,635 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-03 13:37:34,635 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-03 13:37:34,643 - root - INFO - Activating Custom process - number 4 
+2021-03-03 13:37:34,643 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-03 13:37:34,643 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-03 13:37:34,643 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-03 13:37:34,643 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-03 13:37:34,643 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-03 13:37:34,643 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-03 13:37:34,643 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-03 13:37:34,649 - root - INFO - Activating Custom process - number 5 
+2021-03-03 13:37:34,650 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-03 13:37:34,650 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-03 13:37:34,650 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-03 13:37:34,650 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-03 13:37:34,650 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-03 13:37:34,650 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-03 13:37:34,650 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-03 13:37:34,657 - root - INFO - Activating Custom process - number 6 
+2021-03-03 13:37:34,657 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-03 13:37:34,657 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-03 13:37:34,657 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-03 13:37:34,657 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-03 13:37:34,657 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-03 13:37:34,657 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-03 13:37:34,657 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-03 13:37:34,663 - root - INFO - Activating Custom process - number 7 
+2021-03-03 13:37:34,663 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-03 13:37:34,663 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-03 13:37:34,664 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-03 13:37:34,664 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-03 13:37:34,664 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-03 13:37:34,664 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-03 13:37:34,664 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-03 13:37:34,670 - root - INFO - Activating Custom process - number 8 
+2021-03-03 13:37:34,670 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-03 13:37:34,670 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-03 13:37:34,670 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-03 13:37:34,671 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-03 13:37:34,671 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-03 13:37:34,671 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-03 13:37:34,671 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-03 13:37:34,677 - root - INFO - Activating Custom process - number 9 
+2021-03-03 13:37:34,677 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-03 13:37:34,677 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-03 13:37:34,677 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-03 13:37:34,677 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-03 13:37:34,677 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-03 13:37:34,677 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-03 13:37:34,677 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-03 13:37:34,682 - root - INFO - Activating Custom process - number 10 
+2021-03-03 13:37:34,682 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-03 13:37:34,682 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-03 13:37:34,682 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-03 13:37:34,682 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-03 13:37:34,683 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-03 13:37:34,683 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-03 13:37:34,688 - root - INFO - Activating Custom process - number 11 
+2021-03-03 13:37:34,688 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-03 13:37:34,688 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-03 13:37:34,688 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-03 13:37:34,689 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-03 13:37:34,689 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-03 13:37:34,689 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-03 13:37:34,689 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-03 13:37:34,695 - root - INFO - Activating Custom process - number 12 
+2021-03-03 13:37:34,695 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-03 13:37:34,695 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-03 13:37:34,695 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-03 13:37:34,695 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-03 13:37:34,695 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-03 13:37:34,695 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-03 13:37:34,695 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-03 13:37:34,703 - root - INFO - Activating Custom process - number 13 
+2021-03-03 13:37:34,703 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-03 13:37:34,703 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-03 13:37:34,703 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-03 13:37:34,703 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-03 13:37:34,703 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-03 13:37:34,703 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-03 13:37:34,703 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-03 13:37:34,709 - root - INFO - Activating Custom process - number 14 
+2021-03-03 13:37:34,709 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-03 13:37:34,709 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-03 13:37:34,710 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-03 13:37:34,710 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-03 13:37:34,710 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-03 13:37:34,710 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-03 13:37:34,710 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-03 13:38:02,210 - root - INFO - Running experiment it: - 0
+2021-03-03 13:38:02,218 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:38:02,272 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:38:02,273 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-03 13:38:02,273 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-03 13:38:02,273 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-03 13:38:02,273 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-03 13:38:02,273 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-03 13:38:02,274 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-03 13:38:02,274 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-03 13:38:02,290 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:38:02,291 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-03 13:38:02,291 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-03 13:38:02,291 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-03 13:38:02,291 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-03 13:38:02,291 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-03 13:38:02,292 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-03 13:38:02,292 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-03 13:38:02,310 - root - INFO - Activating Custom process - number 2 
+2021-03-03 13:38:02,310 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-03 13:38:02,311 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-03 13:38:02,311 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-03 13:38:02,311 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-03 13:38:02,311 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-03 13:38:02,311 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-03 13:38:02,331 - root - INFO - Activating Custom process - number 3 
+2021-03-03 13:38:02,332 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-03 13:38:02,332 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-03 13:38:02,332 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-03 13:38:02,332 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-03 13:38:02,332 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-03 13:38:02,333 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-03 13:38:02,333 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-03 13:38:02,354 - root - INFO - Activating Custom process - number 4 
+2021-03-03 13:38:02,354 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-03 13:38:02,354 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-03 13:38:02,354 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-03 13:38:02,355 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-03 13:38:02,355 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-03 13:38:02,355 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-03 13:38:02,355 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-03 13:38:02,373 - root - INFO - Activating Custom process - number 5 
+2021-03-03 13:38:02,374 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-03 13:38:02,374 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-03 13:38:02,374 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-03 13:38:02,374 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-03 13:38:02,374 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-03 13:38:02,375 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-03 13:38:02,375 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-03 13:38:02,396 - root - INFO - Activating Custom process - number 6 
+2021-03-03 13:38:02,396 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-03 13:38:02,397 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-03 13:38:02,397 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-03 13:38:02,397 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-03 13:38:02,397 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-03 13:38:02,397 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-03 13:38:02,398 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-03 13:38:02,416 - root - INFO - Activating Custom process - number 7 
+2021-03-03 13:38:02,416 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-03 13:38:02,416 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-03 13:38:02,416 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-03 13:38:02,417 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-03 13:38:02,417 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-03 13:38:02,417 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-03 13:38:02,417 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-03 13:38:02,438 - root - INFO - Activating Custom process - number 8 
+2021-03-03 13:38:02,439 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-03 13:38:02,439 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-03 13:38:02,440 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-03 13:38:02,440 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-03 13:38:02,440 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-03 13:38:02,440 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-03 13:38:02,440 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-03 13:38:02,459 - root - INFO - Activating Custom process - number 9 
+2021-03-03 13:38:02,459 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-03 13:38:02,460 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-03 13:38:02,460 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-03 13:38:02,460 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-03 13:38:02,460 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-03 13:38:02,460 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-03 13:38:02,461 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-03 13:38:02,475 - root - INFO - Activating Custom process - number 10 
+2021-03-03 13:38:02,476 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-03 13:38:02,476 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-03 13:38:02,476 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-03 13:38:02,476 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-03 13:38:02,477 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-03 13:38:02,477 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-03 13:38:02,494 - root - INFO - Activating Custom process - number 11 
+2021-03-03 13:38:02,495 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-03 13:38:02,495 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-03 13:38:02,495 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-03 13:38:02,495 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-03 13:38:02,495 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-03 13:38:02,495 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-03 13:38:02,496 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-03 13:38:02,515 - root - INFO - Activating Custom process - number 12 
+2021-03-03 13:38:02,515 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-03 13:38:02,516 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-03 13:38:02,516 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-03 13:38:02,516 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-03 13:38:02,516 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-03 13:38:02,516 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-03 13:38:02,517 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-03 13:38:02,540 - root - INFO - Activating Custom process - number 13 
+2021-03-03 13:38:02,540 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-03 13:38:02,540 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-03 13:38:02,540 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-03 13:38:02,541 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-03 13:38:02,541 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-03 13:38:02,541 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-03 13:38:02,541 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-03 13:38:02,560 - root - INFO - Activating Custom process - number 14 
+2021-03-03 13:38:02,560 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-03 13:38:02,561 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-03 13:38:02,561 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-03 13:38:02,561 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-03 13:38:02,561 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-03 13:38:02,561 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-03 13:38:02,562 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-03 13:39:29,551 - root - INFO - Running experiment it: - 0
+2021-03-03 13:39:38,336 - root - INFO - Running experiment it: - 0
+2021-03-03 13:39:38,339 - root - INFO -  Performing simulation: 0 
+2021-03-03 13:39:38,357 - root - INFO - Activating Custom process - number 0 
+2021-03-03 13:39:38,357 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-03 13:39:38,358 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-03 13:39:38,358 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-03 13:39:38,358 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-03 13:39:38,358 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-03 13:39:38,358 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-03 13:39:38,358 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-03 13:39:38,363 - root - INFO - Activating Custom process - number 1 
+2021-03-03 13:39:38,363 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-03 13:39:38,364 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-03 13:39:38,364 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-03 13:39:38,364 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-03 13:39:38,364 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-03 13:39:38,364 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-03 13:39:38,364 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-03 13:39:38,370 - root - INFO - Activating Custom process - number 2 
+2021-03-03 13:39:38,370 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-03 13:39:38,370 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-03 13:39:38,370 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-03 13:39:38,370 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-03 13:39:38,370 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-03 13:39:38,370 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-03 13:39:38,377 - root - INFO - Activating Custom process - number 3 
+2021-03-03 13:39:38,377 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-03 13:39:38,377 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-03 13:39:38,377 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-03 13:39:38,378 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-03 13:39:38,378 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-03 13:39:38,378 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-03 13:39:38,378 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-03 13:39:38,385 - root - INFO - Activating Custom process - number 4 
+2021-03-03 13:39:38,385 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-03 13:39:38,385 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-03 13:39:38,385 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-03 13:39:38,385 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-03 13:39:38,386 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-03 13:39:38,386 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-03 13:39:38,386 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-03 13:39:38,393 - root - INFO - Activating Custom process - number 5 
+2021-03-03 13:39:38,394 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-03 13:39:38,394 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-03 13:39:38,394 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-03 13:39:38,394 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-03 13:39:38,394 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-03 13:39:38,394 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-03 13:39:38,394 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-03 13:39:38,401 - root - INFO - Activating Custom process - number 6 
+2021-03-03 13:39:38,401 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-03 13:39:38,401 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-03 13:39:38,401 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-03 13:39:38,401 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-03 13:39:38,401 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-03 13:39:38,401 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-03 13:39:38,401 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-03 13:39:38,407 - root - INFO - Activating Custom process - number 7 
+2021-03-03 13:39:38,407 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-03 13:39:38,407 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-03 13:39:38,407 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-03 13:39:38,407 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-03 13:39:38,407 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-03 13:39:38,407 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-03 13:39:38,407 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-03 13:39:38,413 - root - INFO - Activating Custom process - number 8 
+2021-03-03 13:39:38,414 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-03 13:39:38,414 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-03 13:39:38,414 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-03 13:39:38,414 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-03 13:39:38,414 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-03 13:39:38,414 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-03 13:39:38,414 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-03 13:39:38,421 - root - INFO - Activating Custom process - number 9 
+2021-03-03 13:39:38,421 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-03 13:39:38,421 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-03 13:39:38,421 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-03 13:39:38,421 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-03 13:39:38,421 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-03 13:39:38,421 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-03 13:39:38,421 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-03 13:39:38,426 - root - INFO - Activating Custom process - number 10 
+2021-03-03 13:39:38,427 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-03 13:39:38,427 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-03 13:39:38,427 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-03 13:39:38,427 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-03 13:39:38,427 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-03 13:39:38,427 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-03 13:39:38,433 - root - INFO - Activating Custom process - number 11 
+2021-03-03 13:39:38,433 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-03 13:39:38,433 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-03 13:39:38,433 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-03 13:39:38,433 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-03 13:39:38,433 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-03 13:39:38,433 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-03 13:39:38,433 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-03 13:39:38,440 - root - INFO - Activating Custom process - number 12 
+2021-03-03 13:39:38,440 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-03 13:39:38,440 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-03 13:39:38,440 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-03 13:39:38,440 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-03 13:39:38,440 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-03 13:39:38,440 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-03 13:39:38,441 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-03 13:39:38,448 - root - INFO - Activating Custom process - number 13 
+2021-03-03 13:39:38,448 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-03 13:39:38,448 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-03 13:39:38,448 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-03 13:39:38,448 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-03 13:39:38,449 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-03 13:39:38,449 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-03 13:39:38,449 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-03 13:39:38,455 - root - INFO - Activating Custom process - number 14 
+2021-03-03 13:39:38,455 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-03 13:39:38,455 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-03 13:39:38,455 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-03 13:39:38,456 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-03 13:39:38,456 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-03 13:39:38,456 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-03 13:39:38,456 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-04 13:42:21,542 - root - INFO - Running experiment it: - 0
+2021-03-04 13:42:21,565 - root - INFO -  Performing simulation: 0 
+2021-03-04 13:42:21,587 - root - INFO - Activating Custom process - number 0 
+2021-03-04 13:42:21,587 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-04 13:42:21,587 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-04 13:42:21,588 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-04 13:42:21,588 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-04 13:42:21,588 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-04 13:42:21,588 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-04 13:42:21,588 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-04 13:42:21,594 - root - INFO - Activating Custom process - number 1 
+2021-03-04 13:42:21,594 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-04 13:42:21,594 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-04 13:42:21,594 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-04 13:42:21,594 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-04 13:42:21,594 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-04 13:42:21,594 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-04 13:42:21,594 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-04 13:42:21,602 - root - INFO - Activating Custom process - number 2 
+2021-03-04 13:42:21,602 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-04 13:42:21,602 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-04 13:42:21,602 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-04 13:42:21,603 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-04 13:42:21,603 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-04 13:42:21,603 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-04 13:42:21,611 - root - INFO - Activating Custom process - number 3 
+2021-03-04 13:42:21,611 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-04 13:42:21,611 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-04 13:42:21,611 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-04 13:42:21,611 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-04 13:42:21,611 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-04 13:42:21,612 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-04 13:42:21,612 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-04 13:42:21,620 - root - INFO - Activating Custom process - number 4 
+2021-03-04 13:42:21,621 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-04 13:42:21,621 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-04 13:42:21,621 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-04 13:42:21,621 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-04 13:42:21,621 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-04 13:42:21,621 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-04 13:42:21,621 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-04 13:42:21,630 - root - INFO - Activating Custom process - number 5 
+2021-03-04 13:42:21,631 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-04 13:42:21,631 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-04 13:42:21,631 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-04 13:42:21,631 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-04 13:42:21,631 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-04 13:42:21,631 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-04 13:42:21,631 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-04 13:42:21,639 - root - INFO - Activating Custom process - number 6 
+2021-03-04 13:42:21,640 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-04 13:42:21,640 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-04 13:42:21,640 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-04 13:42:21,640 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-04 13:42:21,640 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-04 13:42:21,640 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-04 13:42:21,640 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-04 13:42:21,647 - root - INFO - Activating Custom process - number 7 
+2021-03-04 13:42:21,648 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-04 13:42:21,648 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-04 13:42:21,648 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-04 13:42:21,648 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-04 13:42:21,648 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-04 13:42:21,648 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-04 13:42:21,648 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-04 13:42:21,656 - root - INFO - Activating Custom process - number 8 
+2021-03-04 13:42:21,656 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-04 13:42:21,656 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-04 13:42:21,657 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-04 13:42:21,657 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-04 13:42:21,657 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-04 13:42:21,657 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-04 13:42:21,657 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-04 13:42:21,664 - root - INFO - Activating Custom process - number 9 
+2021-03-04 13:42:21,664 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-04 13:42:21,664 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-04 13:42:21,665 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-04 13:42:21,665 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-04 13:42:21,665 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-04 13:42:21,665 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-04 13:42:21,665 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-04 13:42:21,671 - root - INFO - Activating Custom process - number 10 
+2021-03-04 13:42:21,671 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-04 13:42:21,671 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-04 13:42:21,671 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-04 13:42:21,671 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-04 13:42:21,671 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-04 13:42:21,671 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-04 13:42:21,678 - root - INFO - Activating Custom process - number 11 
+2021-03-04 13:42:21,679 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-04 13:42:21,679 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-04 13:42:21,679 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-04 13:42:21,679 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-04 13:42:21,679 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-04 13:42:21,679 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-04 13:42:21,679 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-04 13:42:21,687 - root - INFO - Activating Custom process - number 12 
+2021-03-04 13:42:21,687 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-04 13:42:21,687 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-04 13:42:21,687 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-04 13:42:21,687 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-04 13:42:21,687 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-04 13:42:21,687 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-04 13:42:21,687 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-04 13:42:21,696 - root - INFO - Activating Custom process - number 13 
+2021-03-04 13:42:21,696 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-04 13:42:21,696 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-04 13:42:21,696 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-04 13:42:21,697 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-04 13:42:21,697 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-04 13:42:21,697 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-04 13:42:21,697 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-04 13:42:21,704 - root - INFO - Activating Custom process - number 14 
+2021-03-04 13:42:21,704 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-04 13:42:21,704 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-04 13:42:21,704 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-04 13:42:21,704 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-04 13:42:21,705 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-04 13:42:21,705 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-04 13:42:21,705 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-15 13:01:44,773 - root - INFO - Running experiment it: - 0
+2021-03-15 13:01:44,783 - root - INFO -  Performing simulation: 0 
+2021-03-15 13:01:44,804 - root - INFO - Activating Custom process - number 0 
+2021-03-15 13:01:44,805 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-15 13:01:44,805 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-15 13:01:44,805 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-15 13:01:44,805 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-15 13:01:44,805 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-15 13:01:44,805 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-15 13:01:44,805 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-15 13:01:44,813 - root - INFO - Activating Custom process - number 1 
+2021-03-15 13:01:44,813 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-15 13:01:44,813 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-15 13:01:44,813 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-15 13:01:44,813 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-15 13:01:44,813 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-15 13:01:44,814 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-15 13:01:44,814 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-15 13:01:44,821 - root - INFO - Activating Custom process - number 2 
+2021-03-15 13:01:44,822 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-15 13:01:44,822 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-15 13:01:44,822 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-15 13:01:44,822 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-15 13:01:44,822 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-15 13:01:44,822 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-15 13:01:44,831 - root - INFO - Activating Custom process - number 3 
+2021-03-15 13:01:44,831 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-15 13:01:44,831 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-15 13:01:44,831 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-15 13:01:44,831 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-15 13:01:44,831 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-15 13:01:44,831 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-15 13:01:44,831 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-15 13:01:44,841 - root - INFO - Activating Custom process - number 4 
+2021-03-15 13:01:44,841 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-15 13:01:44,841 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-15 13:01:44,841 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-15 13:01:44,841 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-15 13:01:44,841 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-15 13:01:44,842 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-15 13:01:44,842 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-15 13:01:44,849 - root - INFO - Activating Custom process - number 5 
+2021-03-15 13:01:44,850 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-15 13:01:44,850 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-15 13:01:44,850 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-15 13:01:44,850 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-15 13:01:44,850 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-15 13:01:44,850 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-15 13:01:44,851 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-15 13:01:44,859 - root - INFO - Activating Custom process - number 6 
+2021-03-15 13:01:44,859 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-15 13:01:44,859 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-15 13:01:44,859 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-15 13:01:44,859 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-15 13:01:44,859 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-15 13:01:44,859 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-15 13:01:44,859 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-15 13:01:44,867 - root - INFO - Activating Custom process - number 7 
+2021-03-15 13:01:44,868 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-15 13:01:44,868 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-15 13:01:44,868 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-15 13:01:44,868 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-15 13:01:44,868 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-15 13:01:44,868 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-15 13:01:44,868 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-15 13:01:44,876 - root - INFO - Activating Custom process - number 8 
+2021-03-15 13:01:44,876 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-15 13:01:44,876 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-15 13:01:44,877 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-15 13:01:44,877 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-15 13:01:44,877 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-15 13:01:44,877 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-15 13:01:44,877 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-15 13:01:44,885 - root - INFO - Activating Custom process - number 9 
+2021-03-15 13:01:44,885 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-15 13:01:44,885 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-15 13:01:44,885 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-15 13:01:44,885 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-15 13:01:44,885 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-15 13:01:44,886 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-15 13:01:44,886 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-15 13:01:44,891 - root - INFO - Activating Custom process - number 10 
+2021-03-15 13:01:44,892 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-15 13:01:44,892 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-15 13:01:44,892 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-15 13:01:44,892 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-15 13:01:44,892 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-15 13:01:44,892 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-15 13:01:44,900 - root - INFO - Activating Custom process - number 11 
+2021-03-15 13:01:44,900 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-15 13:01:44,900 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-15 13:01:44,900 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-15 13:01:44,901 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-15 13:01:44,901 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-15 13:01:44,901 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-15 13:01:44,901 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-15 13:01:44,908 - root - INFO - Activating Custom process - number 12 
+2021-03-15 13:01:44,909 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-15 13:01:44,909 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-15 13:01:44,909 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-15 13:01:44,909 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-15 13:01:44,909 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-15 13:01:44,909 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-15 13:01:44,909 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-15 13:01:44,919 - root - INFO - Activating Custom process - number 13 
+2021-03-15 13:01:44,919 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-15 13:01:44,919 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-15 13:01:44,919 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-15 13:01:44,919 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-15 13:01:44,919 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-15 13:01:44,920 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-15 13:01:44,920 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-15 13:01:44,927 - root - INFO - Activating Custom process - number 14 
+2021-03-15 13:01:44,928 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-15 13:01:44,928 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-15 13:01:44,928 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-15 13:01:44,928 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-15 13:01:44,928 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-15 13:01:44,928 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-15 13:01:44,929 - root - INFO - Moving Service 4_01 from 28 to 7 node
+2021-03-15 15:52:09,592 - root - INFO - Running experiment it: - 0
+2021-03-15 15:52:09,825 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:52:09,856 - root - INFO - Activating Custom process - number 0 
+2021-03-15 15:52:09,857 - root - INFO - Moving Service 0_01 from 0 to 23 node
+2021-03-15 15:52:09,857 - root - INFO - Moving Service 1_01 from 0 to 26 node
+2021-03-15 15:52:09,857 - root - INFO - Moving Service 2_01 from 0 to 2 node
+2021-03-15 15:52:09,857 - root - INFO - Moving Service 3_01 from 0 to 16 node
+2021-03-15 15:52:09,857 - root - INFO - Moving Service 4_01 from 0 to 31 node
+2021-03-15 15:52:09,857 - root - INFO - Moving Service 5_01 from 0 to 25 node
+2021-03-15 15:52:09,857 - root - INFO - Moving Service 6_01 from 0 to 20 node
+2021-03-15 15:52:09,864 - root - INFO - Activating Custom process - number 1 
+2021-03-15 15:52:09,865 - root - INFO - Moving Service 2_01 from 2 to 30 node
+2021-03-15 15:52:09,865 - root - INFO - Moving Service 3_01 from 16 to 21 node
+2021-03-15 15:52:09,865 - root - INFO - Moving Service 6_01 from 20 to 13 node
+2021-03-15 15:52:09,865 - root - INFO - Moving Service 0_01 from 23 to 8 node
+2021-03-15 15:52:09,865 - root - INFO - Moving Service 5_01 from 25 to 18 node
+2021-03-15 15:52:09,865 - root - INFO - Moving Service 1_01 from 26 to 8 node
+2021-03-15 15:52:09,865 - root - INFO - Moving Service 4_01 from 31 to 6 node
+2021-03-15 15:52:09,873 - root - INFO - Activating Custom process - number 2 
+2021-03-15 15:52:09,873 - root - INFO - Moving Service 4_01 from 6 to 16 node
+2021-03-15 15:52:09,873 - root - INFO - Moving Service 0_01 from 8 to 9 node
+2021-03-15 15:52:09,874 - root - INFO - Moving Service 1_01 from 8 to 20 node
+2021-03-15 15:52:09,874 - root - INFO - Moving Service 6_01 from 13 to 6 node
+2021-03-15 15:52:09,874 - root - INFO - Moving Service 5_01 from 18 to 4 node
+2021-03-15 15:52:09,874 - root - INFO - Moving Service 3_01 from 21 to 19 node
+2021-03-15 15:52:09,882 - root - INFO - Activating Custom process - number 3 
+2021-03-15 15:52:09,882 - root - INFO - Moving Service 5_01 from 4 to 6 node
+2021-03-15 15:52:09,882 - root - INFO - Moving Service 6_01 from 6 to 21 node
+2021-03-15 15:52:09,882 - root - INFO - Moving Service 0_01 from 9 to 28 node
+2021-03-15 15:52:09,883 - root - INFO - Moving Service 4_01 from 16 to 24 node
+2021-03-15 15:52:09,883 - root - INFO - Moving Service 1_01 from 20 to 13 node
+2021-03-15 15:52:09,883 - root - INFO - Moving Service 3_01 from 19 to 30 node
+2021-03-15 15:52:09,883 - root - INFO - Moving Service 2_01 from 30 to 27 node
+2021-03-15 15:52:09,892 - root - INFO - Activating Custom process - number 4 
+2021-03-15 15:52:09,892 - root - INFO - Moving Service 5_01 from 6 to 16 node
+2021-03-15 15:52:09,892 - root - INFO - Moving Service 1_01 from 13 to 3 node
+2021-03-15 15:52:09,892 - root - INFO - Moving Service 4_01 from 24 to 0 node
+2021-03-15 15:52:09,893 - root - INFO - Moving Service 6_01 from 21 to 5 node
+2021-03-15 15:52:09,893 - root - INFO - Moving Service 0_01 from 28 to 25 node
+2021-03-15 15:52:09,893 - root - INFO - Moving Service 2_01 from 27 to 0 node
+2021-03-15 15:52:09,893 - root - INFO - Moving Service 3_01 from 30 to 31 node
+2021-03-15 15:52:09,900 - root - INFO - Activating Custom process - number 5 
+2021-03-15 15:52:09,900 - root - INFO - Moving Service 2_01 from 0 to 19 node
+2021-03-15 15:52:09,900 - root - INFO - Moving Service 4_01 from 0 to 15 node
+2021-03-15 15:52:09,901 - root - INFO - Moving Service 1_01 from 3 to 24 node
+2021-03-15 15:52:09,901 - root - INFO - Moving Service 6_01 from 5 to 4 node
+2021-03-15 15:52:09,901 - root - INFO - Moving Service 5_01 from 16 to 11 node
+2021-03-15 15:52:09,901 - root - INFO - Moving Service 0_01 from 25 to 14 node
+2021-03-15 15:52:09,901 - root - INFO - Moving Service 3_01 from 31 to 15 node
+2021-03-15 15:52:09,910 - root - INFO - Activating Custom process - number 6 
+2021-03-15 15:52:09,910 - root - INFO - Moving Service 6_01 from 4 to 9 node
+2021-03-15 15:52:09,910 - root - INFO - Moving Service 5_01 from 11 to 27 node
+2021-03-15 15:52:09,910 - root - INFO - Moving Service 0_01 from 14 to 5 node
+2021-03-15 15:52:09,910 - root - INFO - Moving Service 3_01 from 15 to 5 node
+2021-03-15 15:52:09,911 - root - INFO - Moving Service 4_01 from 15 to 24 node
+2021-03-15 15:52:09,911 - root - INFO - Moving Service 1_01 from 24 to 31 node
+2021-03-15 15:52:09,911 - root - INFO - Moving Service 2_01 from 19 to 6 node
+2021-03-15 15:52:09,919 - root - INFO - Activating Custom process - number 7 
+2021-03-15 15:52:09,919 - root - INFO - Moving Service 0_01 from 5 to 20 node
+2021-03-15 15:52:09,919 - root - INFO - Moving Service 3_01 from 5 to 18 node
+2021-03-15 15:52:09,919 - root - INFO - Moving Service 2_01 from 6 to 7 node
+2021-03-15 15:52:09,919 - root - INFO - Moving Service 6_01 from 9 to 19 node
+2021-03-15 15:52:09,920 - root - INFO - Moving Service 4_01 from 24 to 13 node
+2021-03-15 15:52:09,920 - root - INFO - Moving Service 5_01 from 27 to 18 node
+2021-03-15 15:52:09,920 - root - INFO - Moving Service 1_01 from 31 to 27 node
+2021-03-15 15:52:09,928 - root - INFO - Activating Custom process - number 8 
+2021-03-15 15:52:09,928 - root - INFO - Moving Service 2_01 from 7 to 5 node
+2021-03-15 15:52:09,928 - root - INFO - Moving Service 4_01 from 13 to 23 node
+2021-03-15 15:52:09,928 - root - INFO - Moving Service 3_01 from 18 to 24 node
+2021-03-15 15:52:09,928 - root - INFO - Moving Service 5_01 from 18 to 15 node
+2021-03-15 15:52:09,928 - root - INFO - Moving Service 0_01 from 20 to 18 node
+2021-03-15 15:52:09,929 - root - INFO - Moving Service 6_01 from 19 to 12 node
+2021-03-15 15:52:09,929 - root - INFO - Moving Service 1_01 from 27 to 11 node
+2021-03-15 15:52:09,936 - root - INFO - Activating Custom process - number 9 
+2021-03-15 15:52:09,936 - root - INFO - Moving Service 2_01 from 5 to 12 node
+2021-03-15 15:52:09,937 - root - INFO - Moving Service 6_01 from 12 to 2 node
+2021-03-15 15:52:09,937 - root - INFO - Moving Service 1_01 from 11 to 16 node
+2021-03-15 15:52:09,937 - root - INFO - Moving Service 5_01 from 15 to 30 node
+2021-03-15 15:52:09,937 - root - INFO - Moving Service 0_01 from 18 to 4 node
+2021-03-15 15:52:09,937 - root - INFO - Moving Service 3_01 from 24 to 5 node
+2021-03-15 15:52:09,937 - root - INFO - Moving Service 4_01 from 23 to 8 node
+2021-03-15 15:52:09,943 - root - INFO - Activating Custom process - number 10 
+2021-03-15 15:52:09,943 - root - INFO - Moving Service 6_01 from 2 to 9 node
+2021-03-15 15:52:09,943 - root - INFO - Moving Service 0_01 from 4 to 2 node
+2021-03-15 15:52:09,943 - root - INFO - Moving Service 4_01 from 8 to 25 node
+2021-03-15 15:52:09,943 - root - INFO - Moving Service 2_01 from 12 to 17 node
+2021-03-15 15:52:09,944 - root - INFO - Moving Service 1_01 from 16 to 15 node
+2021-03-15 15:52:09,944 - root - INFO - Moving Service 5_01 from 30 to 13 node
+2021-03-15 15:52:09,950 - root - INFO - Activating Custom process - number 11 
+2021-03-15 15:52:09,951 - root - INFO - Moving Service 0_01 from 2 to 26 node
+2021-03-15 15:52:09,951 - root - INFO - Moving Service 3_01 from 5 to 17 node
+2021-03-15 15:52:09,951 - root - INFO - Moving Service 6_01 from 9 to 27 node
+2021-03-15 15:52:09,951 - root - INFO - Moving Service 5_01 from 13 to 31 node
+2021-03-15 15:52:09,951 - root - INFO - Moving Service 1_01 from 15 to 21 node
+2021-03-15 15:52:09,951 - root - INFO - Moving Service 2_01 from 17 to 5 node
+2021-03-15 15:52:09,951 - root - INFO - Moving Service 4_01 from 25 to 24 node
+2021-03-15 15:52:09,959 - root - INFO - Activating Custom process - number 12 
+2021-03-15 15:52:09,959 - root - INFO - Moving Service 2_01 from 5 to 7 node
+2021-03-15 15:52:09,959 - root - INFO - Moving Service 3_01 from 17 to 31 node
+2021-03-15 15:52:09,960 - root - INFO - Moving Service 4_01 from 24 to 19 node
+2021-03-15 15:52:09,960 - root - INFO - Moving Service 1_01 from 21 to 11 node
+2021-03-15 15:52:09,960 - root - INFO - Moving Service 0_01 from 26 to 15 node
+2021-03-15 15:52:09,960 - root - INFO - Moving Service 6_01 from 27 to 1 node
+2021-03-15 15:52:09,960 - root - INFO - Moving Service 5_01 from 31 to 17 node
+2021-03-15 15:52:09,969 - root - INFO - Activating Custom process - number 13 
+2021-03-15 15:52:09,969 - root - INFO - Moving Service 6_01 from 1 to 7 node
+2021-03-15 15:52:09,969 - root - INFO - Moving Service 2_01 from 7 to 14 node
+2021-03-15 15:52:09,969 - root - INFO - Moving Service 1_01 from 11 to 22 node
+2021-03-15 15:52:09,969 - root - INFO - Moving Service 0_01 from 15 to 10 node
+2021-03-15 15:52:09,969 - root - INFO - Moving Service 5_01 from 17 to 19 node
+2021-03-15 15:52:09,970 - root - INFO - Moving Service 4_01 from 19 to 28 node
+2021-03-15 15:52:09,970 - root - INFO - Moving Service 3_01 from 31 to 3 node
+2021-03-15 15:52:09,977 - root - INFO - Activating Custom process - number 14 
+2021-03-15 15:52:09,977 - root - INFO - Moving Service 3_01 from 3 to 6 node
+2021-03-15 15:52:09,978 - root - INFO - Moving Service 6_01 from 7 to 9 node
+2021-03-15 15:52:09,978 - root - INFO - Moving Service 0_01 from 10 to 14 node
+2021-03-15 15:52:09,978 - root - INFO - Moving Service 2_01 from 14 to 2 node
+2021-03-15 15:52:09,978 - root - INFO - Moving Service 5_01 from 19 to 4 node
+2021-03-15 15:52:09,978 - root - INFO - Moving Service 1_01 from 22 to 1 node
+2021-03-15 15:52:09,978 - root - INFO - Moving Service 4_01 from 28 to 7 node

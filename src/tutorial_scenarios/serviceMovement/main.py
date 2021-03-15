@@ -9,14 +9,13 @@ import time
 import json
 import random
 import logging.config
-
 import networkx as nx
-from pathlib import Path
+import matplotlib.pyplot as plt
 
+from pathlib import Path
 from yafs.core import Sim
 from yafs.application import create_applications_from_json
 from yafs.topology import Topology
-
 from yafs.placement import JSONPlacement
 from yafs.path_routing import DeviceSpeedAwareRouting
 from yafs.distribution import deterministic_distribution,deterministicDistributionStartPoint
@@ -122,6 +121,9 @@ def main(stop_time, it):
     nx.set_node_attributes(t.G, name="IPT", values=attIPT)
 
     nx.write_gexf(t.G,folder_results+"graph_binomial_tree_%i"%size) # you can export the Graph in multiples format to view in tools like Gephi, and so on.
+
+    nx.draw(t.G, with_labels=True)  # Draw
+    plt.show()
 
     print(t.G.nodes()) # nodes id can be str or int
 

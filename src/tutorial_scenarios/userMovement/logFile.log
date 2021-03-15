@@ -117,6 +117,23 @@
 2021-02-22 15:40:59,628 - root - INFO -  Removing a user 11 on node 6
 2021-02-22 15:40:59,658 - root - INFO -  Creating a new user 16 on node 4
 2021-02-22 15:40:59,688 - root - INFO -  Creating a new user 17 on node 14
+2021-02-26 14:20:33,961 - root - INFO - Running experiment it: - 0
+2021-02-26 14:20:33,981 - root - INFO -  Performing simulation: 0 
+2021-02-26 14:20:33,982 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-02-26 14:20:33,990 - root - INFO -  Creating a new user 10 on node 20
+2021-02-26 14:20:34,000 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-02-26 14:20:34,012 - root - INFO -  Creating a new user 11 on node 6
+2021-02-26 14:20:34,028 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-02-26 14:20:34,043 - root - INFO -  Creating a new user 12 on node 4
+2021-02-26 14:20:34,065 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-02-26 14:20:34,085 - root - INFO -  Creating a new user 13 on node 13
+2021-02-26 14:20:34,110 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-02-26 14:20:34,134 - root - INFO -  Creating a new user 14 on node 0
+2021-02-26 14:20:34,160 - root - INFO -  Creating a new user 15 on node 25
+2021-02-26 14:20:34,191 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-02-26 14:20:34,228 - root - INFO -  Removing a user 11 on node 6
+2021-02-26 14:20:34,262 - root - INFO -  Creating a new user 16 on node 4
+2021-02-26 14:20:34,297 - root - INFO -  Creating a new user 17 on node 14
 2021-02-27 15:10:30,827 - root - INFO - Running experiment it: - 0
 2021-02-27 15:10:30,834 - root - INFO -  Performing simulation: 0 
 2021-02-27 15:10:30,835 - root - INFO -  Moving a user 9 from node 23 to 31
@@ -333,3 +350,258 @@
 2021-02-27 16:38:06,199 - root - INFO -  Removing a user 11 on node 6
 2021-02-27 16:38:06,287 - root - INFO -  Creating a new user 16 on node 4
 2021-02-27 16:38:06,393 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 13:00:38,523 - root - INFO - Running experiment it: - 0
+2021-03-15 13:00:38,533 - root - INFO -  Performing simulation: 0 
+2021-03-15 13:00:38,534 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 13:00:38,540 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 13:00:38,551 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 13:00:38,563 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 13:00:38,579 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 13:00:38,594 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 13:00:38,615 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 13:00:38,637 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 13:00:38,663 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 13:00:38,688 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 13:00:38,715 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 13:00:38,750 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 13:00:38,784 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 13:00:38,812 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 13:00:38,847 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 13:01:33,413 - root - INFO - Running experiment it: - 0
+2021-03-15 13:01:33,421 - root - INFO -  Performing simulation: 0 
+2021-03-15 13:01:33,422 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 13:01:33,429 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 13:01:33,440 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 13:01:33,452 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 13:01:33,467 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 13:01:33,483 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 13:01:33,505 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 13:01:33,526 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 13:01:33,553 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 13:01:33,577 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 13:01:33,604 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 13:01:33,637 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 13:01:33,672 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 13:01:33,702 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 13:01:33,738 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 13:02:03,562 - root - INFO - Running experiment it: - 0
+2021-03-15 13:02:03,569 - root - INFO -  Performing simulation: 0 
+2021-03-15 13:02:03,570 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 13:02:03,577 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 13:02:03,588 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 13:02:03,599 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 13:02:03,614 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 13:02:03,629 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 13:02:03,651 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 13:02:03,672 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 13:02:03,698 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 13:02:03,723 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 13:02:03,751 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 13:02:03,786 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 13:02:03,820 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 13:02:03,850 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 13:02:03,884 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 13:03:03,333 - root - INFO - Running experiment it: - 0
+2021-03-15 13:03:03,340 - root - INFO -  Performing simulation: 0 
+2021-03-15 13:03:03,342 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 13:03:03,348 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 13:03:03,363 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 13:03:03,374 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 13:03:03,390 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 13:03:03,405 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 13:03:03,428 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 13:03:03,449 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 13:03:03,476 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 13:03:03,501 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 13:03:03,528 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 13:03:03,560 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 13:03:03,593 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 13:03:03,620 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 13:03:03,652 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 13:03:12,976 - root - INFO - Running experiment it: - 0
+2021-03-15 13:03:12,983 - root - INFO -  Performing simulation: 0 
+2021-03-15 13:03:12,985 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 13:03:12,991 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 13:03:13,005 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 13:03:13,016 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 13:03:13,031 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 13:03:13,049 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 13:03:13,071 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 13:03:13,092 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 13:03:13,119 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 13:03:13,144 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 13:03:13,171 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 13:03:13,205 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 13:03:13,239 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 13:03:13,270 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 13:03:13,302 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 15:43:43,026 - root - INFO - Running experiment it: - 0
+2021-03-15 15:43:43,031 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:43:43,035 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 15:43:43,041 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 15:43:43,051 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 15:43:43,061 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 15:43:43,076 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 15:43:43,091 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 15:43:43,113 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 15:43:43,134 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 15:43:43,159 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 15:43:43,183 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 15:43:43,209 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 15:43:43,241 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 15:43:43,273 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 15:43:43,300 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 15:43:43,332 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 15:45:00,075 - root - INFO - Running experiment it: - 0
+2021-03-15 15:45:00,567 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:45:00,569 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 15:45:00,575 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 15:45:00,585 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 15:45:00,595 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 15:45:00,610 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 15:45:00,625 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 15:45:00,645 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 15:45:00,665 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 15:45:00,691 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 15:45:00,715 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 15:45:00,740 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 15:45:00,772 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 15:45:00,802 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 15:45:00,829 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 15:45:00,858 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 15:45:46,458 - root - INFO - Running experiment it: - 0
+2021-03-15 15:45:46,723 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:45:46,724 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 15:45:46,730 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 15:45:46,741 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 15:45:46,751 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 15:45:46,767 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 15:45:46,781 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 15:45:46,804 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 15:45:46,823 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 15:45:46,849 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 15:45:46,873 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 15:45:46,898 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 15:45:46,929 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 15:45:46,960 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 15:45:46,987 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 15:45:47,018 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 15:45:54,019 - root - INFO - Running experiment it: - 0
+2021-03-15 15:45:54,281 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:45:54,282 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 15:45:54,289 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 15:45:54,299 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 15:45:54,310 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 15:45:54,325 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 15:45:54,340 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 15:45:54,361 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 15:45:54,382 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 15:45:54,407 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 15:45:54,430 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 15:45:54,456 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 15:45:54,487 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 15:45:54,519 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 15:45:54,546 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 15:45:54,577 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 15:47:47,468 - root - INFO - Running experiment it: - 0
+2021-03-15 15:47:47,638 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:47:47,640 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 15:47:47,646 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 15:47:47,656 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 15:47:47,666 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 15:47:47,681 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 15:47:47,696 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 15:47:47,716 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 15:47:47,736 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 15:47:47,761 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 15:47:47,784 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 15:47:47,811 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 15:47:47,842 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 15:47:47,873 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 15:47:47,900 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 15:47:47,931 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 15:48:01,977 - root - INFO - Running experiment it: - 0
+2021-03-15 15:48:02,216 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:48:02,217 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 15:48:02,223 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 15:48:02,234 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 15:48:02,245 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 15:48:02,259 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 15:48:02,274 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 15:48:02,294 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 15:48:02,314 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 15:48:02,338 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 15:48:02,362 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 15:48:02,387 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 15:48:02,419 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 15:48:02,450 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 15:48:02,477 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 15:48:02,509 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 15:52:16,223 - root - INFO - Running experiment it: - 0
+2021-03-15 15:52:16,462 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:52:16,463 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 15:52:16,469 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 15:52:16,480 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 15:52:16,490 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 15:52:16,506 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 15:52:16,521 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 15:52:16,542 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 15:52:16,562 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 15:52:16,587 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 15:52:16,611 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 15:52:16,638 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 15:52:16,668 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 15:52:16,705 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 15:52:16,732 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 15:52:16,763 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 15:52:30,770 - root - INFO - Running experiment it: - 0
+2021-03-15 15:52:31,011 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:52:31,012 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 15:52:31,019 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 15:52:31,030 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 15:52:31,041 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 15:52:31,057 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 15:52:31,072 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 15:52:31,092 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 15:52:31,113 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 15:52:31,139 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 15:52:31,163 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 15:52:31,189 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 15:52:31,220 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 15:52:31,252 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 15:52:31,280 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 15:52:31,312 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 15:52:34,381 - root - INFO - Running experiment it: - 0
+2021-03-15 15:52:34,631 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:52:34,633 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 15:52:34,639 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 15:52:34,650 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 15:52:34,661 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 15:52:34,677 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 15:52:34,692 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 15:52:34,712 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 15:52:34,733 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 15:52:34,758 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 15:52:34,782 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 15:52:34,808 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 15:52:34,840 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 15:52:34,872 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 15:52:34,899 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 15:52:34,931 - root - INFO -  Creating a new user 17 on node 14
+2021-03-15 15:52:37,680 - root - INFO - Running experiment it: - 0
+2021-03-15 15:52:37,908 - root - INFO -  Performing simulation: 0 
+2021-03-15 15:52:37,909 - root - INFO -  Moving a user 9 from node 23 to 31
+2021-03-15 15:52:37,915 - root - INFO -  Creating a new user 10 on node 20
+2021-03-15 15:52:37,926 - root - INFO -  Moving a user 9 from node 23 to 8
+2021-03-15 15:52:37,937 - root - INFO -  Creating a new user 11 on node 6
+2021-03-15 15:52:37,952 - root - INFO -  Moving a user 11 from node 6 to 9
+2021-03-15 15:52:37,967 - root - INFO -  Creating a new user 12 on node 4
+2021-03-15 15:52:37,986 - root - INFO -  Moving a user 12 from node 4 to 6
+2021-03-15 15:52:38,007 - root - INFO -  Creating a new user 13 on node 13
+2021-03-15 15:52:38,031 - root - INFO -  Moving a user 13 from node 13 to 16
+2021-03-15 15:52:38,054 - root - INFO -  Creating a new user 14 on node 0
+2021-03-15 15:52:38,080 - root - INFO -  Creating a new user 15 on node 25
+2021-03-15 15:52:38,110 - root - INFO -  Moving a user 14 from node 0 to 0
+2021-03-15 15:52:38,142 - root - INFO -  Removing a user 11 on node 6
+2021-03-15 15:52:38,169 - root - INFO -  Creating a new user 16 on node 4
+2021-03-15 15:52:38,200 - root - INFO -  Creating a new user 17 on node 14
