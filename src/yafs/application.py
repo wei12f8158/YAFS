@@ -10,7 +10,7 @@ class Message:
 
         src (str): the name of module who send this message
 
-        dst (dst): the nsame of module who receive this message
+        dst (dst): the name of module who receive this message
 
         inst (int): the number of instructions to be executed ((by default 0), Instead of MIPS, we use IPt since the time is relative to the simulation units.
 

@@ -172,7 +172,7 @@ def __add_mobile_agent(idDES,gme,G):
  
     #Last movement
     gme.do.action(gme)
-    print "Mobile agent: %s ends "%gme.plate
+    print ("Mobile agent: %s ends "%gme.plate)
 
 
 # =============================================================================
@@ -238,16 +238,16 @@ for idx,pt in enumerate(points_within_tolerance):
     ## MODULE SW
     key2 = pG2.keys()[idx]
     nG2 = G2.nodes[key2]
-    print "%s is close to "%nG2["model"]
+    print ("%s is close to "%nG2["model"])
     ## Street coverage
     for p in pt:
         key = pG.keys()[p]
-        print G.nodes[key]
+        print (G.nodes[key])
         # service_coverage[(G.nodes[key]['x'],G.nodes[key]['y'])]=nG2["model"]
         service_coverage[key] = nG2["id"]
 
-print "SERVICE COVERAGE"        
-print service_coverage
+print ("SERVICE COVERAGE")
+print (service_coverage)
 
  
 # =============================================================================
@@ -277,4 +277,4 @@ for i in range(10000):
         counter+=1 #oneway edges by random choice
 
 env.run(until=1000000)
-print "COCHES REGISTRADOS EN ESE MOVIMIENTO: %i"%len(action.fees)
+print ("COCHES REGISTRADOS EN ESE MOVIMIENTO: %i"%len(action.fees))

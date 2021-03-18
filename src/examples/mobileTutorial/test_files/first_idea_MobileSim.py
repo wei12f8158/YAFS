@@ -172,7 +172,7 @@ def __add_mobile_agent(idDES,gme,G):
  
     #Last movement
     gme.do.action(gme)
-    print "Mobile agent: %s ends "%gme.plate
+    print ("Mobile agent: %s ends "%gme.plate)
 
 
 # =============================================================================
@@ -238,7 +238,7 @@ for idx,pt in enumerate(points_within_tolerance):
     ## MODULE SW
     key2 = pG2.keys()[idx]
     nG2 = G2.nodes[key2]
-    print "%s is close to "%nG2["model"]
+    print ("%s is close to "%nG2["model"])
     ## Street coverage
     for p in pt:
         key = pG.keys()[p]
