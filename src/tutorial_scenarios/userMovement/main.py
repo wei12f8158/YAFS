@@ -106,7 +106,7 @@ def main(stop_time, it):
     nx.draw(t.G, with_labels=True)  # Draw
     plt.show()
 
-    print(t.G.nodes()) # nodes id can be str or int
+    print(t.G.nodes ()) # nodes id can be str or int
 
 
     """

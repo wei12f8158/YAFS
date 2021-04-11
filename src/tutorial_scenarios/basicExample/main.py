@@ -42,7 +42,7 @@ def main(stop_time, it):
     nx.set_edge_attributes(t.G, name="BW", values=attPR_BW)
     ## Attr. on nodes
     # IPT
-    attIPT = {x: 100 for x in t.G.nodes()}
+    attIPT = {x: 100 for x in t.G.nodes()} #100 time units
     nx.set_node_attributes(t.G, name="IPT", values=attIPT)
 
     nx.write_gexf(t.G,folder_results+"graph_binomial_tree_%i"%size) # you can export the Graph in multiples format to view in tools like Gephi, and so on.

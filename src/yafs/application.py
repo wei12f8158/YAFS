@@ -47,7 +47,7 @@ class Message:
         self.original_DES_src = None #This attribute identifies the user when multiple users are in the same node
 
     def __str__(self):
-        print  ("{--")
+        print ("{--")
         print (" Name: %s (%s)" %(self.name,self.id))
         print (" From (src): %s  to (dst): %s" %(self.src,self.dst))
         print (" --}")
@@ -152,7 +152,7 @@ class Application:
 
         self.data = data
 
-        # self.modules_sink = modules
+    # self.modules_sink = modules
     # def set_module(self, modules, type_module):
     #     """
     #     Pure source or sink modules must be typified
@@ -229,7 +229,7 @@ class Application:
                            **param):
 
         """
-        Link to each non-pure module a management of transfering of messages
+        Link to each non-pure module a management of transferring of messages
 
         Args:
             module_name (str): module name

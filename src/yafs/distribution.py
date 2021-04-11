@@ -40,23 +40,6 @@ class deterministicDistributionStartPoint(Distribution):
         else:
             return self.time
 
-class exponentialDistribution(Distribution):
-    def __init__(self,lambd,seed=1, **kwargs):
-        warnings.warn("The exponentialDistribution class is deprecated and "
-                      "will be removed in version 2.0.0. "
-                      "Use the exponential_distribution function instead.",
-                      FutureWarning,
-                      stacklevel=8
-                     )
-        super(exponentialDistribution, self).__init__(**kwargs)
-        self.l = lambd
-        self.rnd = np.random.RandomState(seed)
-
-    def next(self):
-        value = int(self.rnd.exponential(self.l, size=1)[0])
-        if value==0: return 1
-        return value
-
 
 class exponential_distribution(Distribution):
     def __init__(self,lambd,seed=1, **kwargs):
