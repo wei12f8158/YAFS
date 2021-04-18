@@ -232,7 +232,7 @@ if __name__ == '__main__':
 
     print("PATH EXPERIMENTO: ",pathExperimento)
     nSimulations = 1
-    timeSimulation = 1000000#100000
+    timeSimulation = 1000000 #100000
     datestamp = time.strftime('%Y%m%d')
     dname = pathExperimento + "results_"+datestamp+"/"
     try:

@@ -236,3 +236,17 @@
 2021-04-06 14:58:02,220 - root - INFO -  A new node is created between 37 and 0 with ID: 41
 2021-04-06 14:58:02,237 - root - INFO -  A new node is created between 28 and 0 with ID: 42
 2021-04-06 14:58:02,257 - root - INFO -  A new node is created between 21 and 16 with ID: 43
+2021-04-18 15:34:41,192 - root - INFO - Running experiment it: - 0
+2021-04-18 15:34:41,503 - root - INFO -  Performing simulation: 0 
+2021-04-18 15:34:41,559 - root - INFO -  A new node is created between 31 and 16 with ID: 32
+2021-04-18 15:34:41,568 - root - INFO -  A new node is created between 20 and 31 with ID: 33
+2021-04-18 15:34:41,576 - root - INFO -  A new node is created between 13 and 33 with ID: 34
+2021-04-18 15:34:41,592 - root - INFO -  A new node is created between 8 and 6 with ID: 35
+2021-04-18 15:34:41,602 - root - INFO -  A new node is created between 16 and 35 with ID: 36
+2021-04-18 15:34:41,630 - root - INFO -  A new node is created between 4 and 21 with ID: 37
+2021-04-18 15:34:41,654 - root - INFO -  A new node is created between 6 and 22 with ID: 38
+2021-04-18 15:34:41,680 - root - INFO -  A new node is created between 14 and 37 with ID: 39
+2021-04-18 15:34:41,714 - root - INFO -  A new node is created between 35 and 17 with ID: 40
+2021-04-18 15:34:41,741 - root - INFO -  A new node is created between 37 and 0 with ID: 41
+2021-04-18 15:34:41,756 - root - INFO -  A new node is created between 28 and 0 with ID: 42
+2021-04-18 15:34:41,813 - root - INFO -  A new node is created between 21 and 16 with ID: 43
