@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from pandas import DataFrame
 
 from yafs.metrics import Metrics
 
@@ -83,22 +84,24 @@ class Stats:
 
         return results
 
-    # def get_cost_cloud(self, topology):
-    #     cost = 0.0
-    #     nodeInfo = topology.get_info()
-    #     results = {}
-    #     # Tiempo de actividad / runeo
-    #     if "time_response" not in self.df.columns:  # cached
-    #         self.__compute_times_df()
-    #
-    #     nodes = self.df.groupby("TOPO.dst").agg({"time_service": "sum"})
-    #
-    #     for id_node in nodes.index:
-    #         if nodeInfo[id_node]["type"] == Entity.ENTITY_CLOUD:
-    #             results[id_node] = {"model": nodeInfo[id_node]["model"], "type": nodeInfo[id_node]["type"],
-    #                                 "watt": nodes.loc[id_node].time_service * nodeInfo[id_node]["WATT"]}
-    #             cost += nodes.loc[id_node].time_service * nodeInfo[id_node]["COST"]
-    #     return cost,results
+'''
+     def get_cost_cloud(self, topology):
+         cost = 0.0
+         nodeInfo = topology.get_info()
+         results = {}
+         # Tiempo de actividad / runeo
+         if "time_response" not in self.df.columns:  # cached
+             self.__compute_times_df()
+
+         nodes = self.df.groupby("TOPO.dst").agg({"time_service": "sum"})
+
+         for id_node in nodes.index:
+             if nodeInfo[id_node]["type"] == Entity.ENTITY_CLOUD:
+                 results[id_node] = {"model": nodeInfo[id_node]["model"], "type": nodeInfo[id_node]["type"],
+                                     "watt": nodes.loc[id_node].time_service * nodeInfo[id_node]["WATT"]}
+                 cost += nodes.loc[id_node].time_service * nodeInfo[id_node]["COST"]
+         return cost,results
+'''
 
     def showLoops(self,time_loops):
         results = self.average_loop_response(time_loops)
@@ -174,7 +177,7 @@ class Stats:
         """
         g = self.df.groupby(["module", "DES.dst"]).agg({"service": ['mean', 'sum', 'count']})
         g.reset_index(inplace=True)
-        h = pd.DataFrame()
+        h: DataFrame = pd.DataFrame()
         h["module"] = g[g.module == service].module
         h["utilization"] = g[g.module == service]["service"]["sum"]*100 / time
         return h

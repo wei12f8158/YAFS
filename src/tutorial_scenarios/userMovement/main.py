@@ -25,9 +25,9 @@ class CustomStrategy():
 
     def __init__(self, pathResults, listIdApps):
         self.activations = 0
-        self.pathResults = pathResults
+        #self.pathResults = pathResults
         self.listUsers = []
-        self.numberMaxUsers = 100
+        self.numberMaxUsers = 100 #100
         self.listIdApps = listIdApps
         self.placeAt = {}
 
@@ -43,10 +43,10 @@ class CustomStrategy():
         return idDES
 
     def __call__(self, sim, routing):
-        # logging.info("Activating Custom process - number %i " % self.activations)
+        logging.info("Activating Custom process - number %i " % self.activations) #
         self.activations += 1
         # In this case, the new users not change the topology
-        # routing.invalid_cache_value = True # when the service change the cache of the Path.routing is outdated.
+        routing.invalid_cache_value = True # when the service change the cache of the Path.routing is outdated.
 
         # We can introduce a new user or we move it
         if len(self.listUsers) == 0:
@@ -82,7 +82,7 @@ def main(stop_time, it):
     t = Topology()
 
     # You also can create a topology using JSONs files. Check out examples folder
-    size = 5
+    size = 7
     t.G = nx.generators.binomial_tree(size)  # In NX-lib there are a lot of Graphs generators
 
     # Definition of mandatory attributes of a Topology
@@ -95,11 +95,10 @@ def main(stop_time, it):
     # IPT
     attIPT = {x: 100 for x in t.G.nodes()}
     nx.set_node_attributes(t.G, name="IPT", values=attIPT)
-    nx.write_gexf(t.G,
-                  folder_results + "graph_binomial_tree_%i" % size)  # you can export the Graph in multiples format to view in tools like Gephi, and so on.
+    nx.write_gexf(t.G, folder_results + "graph_binomial_tree_%i" % size)  # you can export the Graph in multiples format to view in tools like Gephi, and so on.
 
     nx.draw(t.G, with_labels=True)  # Draw
-    # plt.show()
+    plt.show()
 
     print(t.G.nodes ()) # nodes id can be str or int
 
@@ -153,7 +152,7 @@ def main(stop_time, it):
     In this case, it changes the number or movement of users.
     """
     listIdApps = [x["id"] for x in dataApp]
-    dist = deterministicDistributionStartPoint(stop_time / 4., stop_time / 2.0 / 10.0, name="Deterministic")
+    dist = deterministicDistributionStartPoint(stop_time / 4., stop_time / 20, name="Deterministic") #4 20
     evol = CustomStrategy(folder_results, listIdApps)
     s.deploy_monitor("RandomAllocation",
                      evol,
@@ -175,7 +174,7 @@ if __name__ == '__main__':
     logging.config.fileConfig(os.getcwd() + '/logging.ini')
 
     nIterations = 1  # iteration for each experiment
-    simulationDuration = 100  # 20000
+    simulationDuration = 20000  # 20000
 
     # Iteration for each experiment changing the seed of randoms
     for iteration in range(nIterations):
