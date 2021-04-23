@@ -35,6 +35,21 @@
       "module_name": "6_01",
       "app": 6,
       "id_resource": 0
+    },
+    {
+      "module_name": "7_01",
+      "app": 7,
+      "id_resource": 0
+    },
+    {
+      "module_name": "8_01",
+      "app": 8,
+      "id_resource": 0
+    },
+    {
+      "module_name": "9_01",
+      "app": 9,
+      "id_resource": 0
     }
   ]
 }

@@ -151,7 +151,7 @@ def main(stop_time, it):
     nx.write_gexf(t.G,folder_results+"graph_binomial_tree_%i"%size) # you can export the Graph in multiples format to view in tools like Gephi, and so on.
 
     nx.draw(t.G, with_labels=True)  # Draw
-    plt.show()
+    #plt.show()
 
     print(t.G.nodes()) # nodes id can be str or int
 

@@ -31,7 +31,7 @@ def main(stop_time, it):
     t = Topology()
 
     # You also can create a topology using JSONs files. Check out examples folder
-    size = 5
+    size = 7
     t.G = nx.generators.binomial_tree(size) # In NX-lib there are a lot of Graphs generators
 
     # Definition of mandatory attributes of a Topology
@@ -48,7 +48,7 @@ def main(stop_time, it):
     nx.write_gexf(t.G,folder_results+"graph_binomial_tree_%i"%size) # you can export the Graph in multiples format to view in tools like Gephi, and so on.
 
     nx.draw(t.G, with_labels=True)  # Draw
-    plt.show()
+    #plt.show()
 
     print(t.G.nodes()) # nodes id can be str or int
 
