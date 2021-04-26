@@ -28,6 +28,6 @@ for i, row in df2.iterrows():
 
 constraints =    
 path = "/Users/isaaclera/PycharmProjects/YAFS/src/examples/RuleBasedDistributedModel/exp1/"
-dataPopulation = json.load(open(path + 'usersDefinition.json'))
+dataPopulation = json.load(open(path + 'fognodesDefinition.json'))
 for element in dataPopulation["sources"]:
     print(element)

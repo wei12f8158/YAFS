@@ -40,7 +40,7 @@ class CustomStrategy():
 
         #Load user contraints
         self.constraints={}
-        dataPopulation = json.load(open(pathExp + 'usersDefinition.json'))
+        dataPopulation = json.load(open(pathExp + 'fognodesDefinition.json'))
         for element in dataPopulation["sources"]:
             node = element["id_resource"]
             app = element["app"]

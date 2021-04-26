@@ -141,7 +141,7 @@ def main(simulated_time,experimento,ilpPath,it):
     """
     POPULATION algorithm
     """
-    dataPopulation = json.load(open(experimento+'usersDefinition.json'))
+    dataPopulation = json.load(open(experimento+'fognodesDefinition.json'))
     pop = JSONPopulation(name="Statical", json=dataPopulation, iteration=it)
 
 

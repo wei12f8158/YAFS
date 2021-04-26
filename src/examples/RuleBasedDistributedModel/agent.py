@@ -44,7 +44,7 @@ class PolicyManager():
 
         self.previous_number_samples = 0
         self.agents = {}
-        # data = json.load(open(path + 'usersDefinition.json'))
+        # data = json.load(open(path + 'fognodesDefinition.json'))
 
 
 

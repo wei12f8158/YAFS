@@ -134,8 +134,9 @@ def main(stop_time, it):
     t = Topology()
 
     # You also can create a topology using JSONs files. Check out examples folder
-    size = 5
-    t.G = nx.generators.binomial_tree(size) # In NX-lib there are a lot of Graphs generators
+    size = 200
+    #t.G = nx.generators.binomial_tree(size) # In NX-lib there are a lot of Graphs generators
+    t.G = nx.gnp_random_graph(size, 0.1)
 
     # Definition of mandatory attributes of a Topology
     ## Attr. on edges
@@ -148,7 +149,7 @@ def main(stop_time, it):
     attIPT = {x: 100 for x in t.G.nodes()}
     nx.set_node_attributes(t.G, name="IPT", values=attIPT)
 
-    nx.write_gexf(t.G,folder_results+"graph_binomial_tree_%i"%size) # you can export the Graph in multiples format to view in tools like Gephi, and so on.
+    #nx.write_gexf(t.G,folder_results+"graph_binomial_tree_%i"%size) # you can export the Graph in multiples format to view in tools like Gephi, and so on.
 
     nx.draw(t.G, with_labels=True)  # Draw
     #plt.show()

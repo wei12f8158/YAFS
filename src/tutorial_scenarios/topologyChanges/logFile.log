@@ -363,3 +363,23 @@
 2021-04-22 14:54:36,271 - root - INFO -  A new node is created between 37 and 0 with ID: 41
 2021-04-22 14:54:36,308 - root - INFO -  A new node is created between 28 and 0 with ID: 42
 2021-04-22 14:54:36,317 - root - INFO -  A new node is created between 21 and 16 with ID: 43
+2021-04-25 20:57:15,862 - root - INFO - Running experiment it: - 0
+2021-04-25 20:57:16,108 - root - INFO -  Performing simulation: 0 
+2021-04-25 20:57:16,152 - root - INFO -  A new node is created between 106 and 44 with ID: 200
+2021-04-25 20:57:16,164 - root - INFO -  A new node is created between 15 and 107 with ID: 201
+2021-04-25 20:57:16,177 - root - INFO -  A new node is created between 188 and 10 with ID: 202
+2021-04-25 20:57:16,189 - root - INFO -  A new node is created between 49 and 96 with ID: 203
+2021-04-25 20:57:16,195 - root - INFO -  A new node is created between 113 and 7 with ID: 204
+2021-04-25 20:57:16,208 - root - INFO -  A new node is created between 122 and 107 with ID: 205
+2021-04-25 20:57:16,221 - root - INFO -  A new node is created between 79 and 71 with ID: 206
+2021-04-25 20:57:16,227 - root - INFO -  A new node is created between 95 and 48 with ID: 207
+2021-04-25 21:11:33,453 - root - INFO - Running experiment it: - 0
+2021-04-25 21:11:33,694 - root - INFO -  Performing simulation: 0 
+2021-04-25 21:11:33,736 - root - INFO -  A new node is created between 106 and 44 with ID: 200
+2021-04-25 21:11:33,748 - root - INFO -  A new node is created between 15 and 107 with ID: 201
+2021-04-25 21:11:33,760 - root - INFO -  A new node is created between 188 and 10 with ID: 202
+2021-04-25 21:11:33,772 - root - INFO -  A new node is created between 49 and 96 with ID: 203
+2021-04-25 21:11:33,779 - root - INFO -  A new node is created between 113 and 7 with ID: 204
+2021-04-25 21:11:33,791 - root - INFO -  A new node is created between 122 and 107 with ID: 205
+2021-04-25 21:11:33,803 - root - INFO -  A new node is created between 79 and 71 with ID: 206
+2021-04-25 21:11:33,809 - root - INFO -  A new node is created between 95 and 48 with ID: 207

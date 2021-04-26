@@ -31,8 +31,9 @@ def main(stop_time, it):
     t = Topology()
 
     # You also can create a topology using JSONs files. Check out examples folder
-    size = 7
-    t.G = nx.generators.binomial_tree(size) # In NX-lib there are a lot of Graphs generators
+    size = 200
+    #t.G = nx.generators.binomial_tree(size) # In NX-lib there are a lot of Graphs generators
+    t.G = nx.gnp_random_graph(size, 0.05)
 
     # Definition of mandatory attributes of a Topology
     ## Attr. on edges
@@ -42,10 +43,10 @@ def main(stop_time, it):
     nx.set_edge_attributes(t.G, name="BW", values=attPR_BW)
     ## Attr. on nodes
     # IPT
-    attIPT = {x: 100 for x in t.G.nodes()} #100 time units
+    attIPT = {x: 10 for x in t.G.nodes()} #100 time units
     nx.set_node_attributes(t.G, name="IPT", values=attIPT)
 
-    nx.write_gexf(t.G,folder_results+"graph_binomial_tree_%i"%size) # you can export the Graph in multiples format to view in tools like Gephi, and so on.
+    #nx.write_gexf(t.G,folder_results+"graph_binomial_tree_%i"%size) # you can export the Graph in multiples format to view in tools like Gephi, and so on.
 
     nx.draw(t.G, with_labels=True)  # Draw
     #plt.show()
@@ -84,7 +85,7 @@ def main(stop_time, it):
     """
     Deploy users
     """
-    userJSON = json.load(open('data/usersDefinition.json'))
+    userJSON = json.load(open('data/fognodesDefinition.json'))
     for user in userJSON["sources"]:
         app_name = user["app"]
         app = s.apps[app_name]
@@ -110,7 +111,7 @@ if __name__ == '__main__':
     logging.config.fileConfig(os.getcwd() + '/logging.ini')
 
     nIterations = 1  # iteration for each experiment
-    simulationDuration = 20000
+    simulationDuration = 2000 #20000
 
     # Iteration for each experiment changing the seed of randoms
     for iteration in range(nIterations):

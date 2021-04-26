@@ -150,7 +150,7 @@ def main(simulated_time, path,pathResults,case,it):
     """
     POPULATION algorithm
     """
-    dataPopulation = json.load(open(path + 'usersDefinition.json'))
+    dataPopulation = json.load(open(path + 'fognodesDefinition.json'))
     # Each application has an unique population politic
     # For the original json, we filter and create a sub-list for each app politic
     for aName in apps.keys():

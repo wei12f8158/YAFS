@@ -1278,7 +1278,7 @@ for i in range(0,TOTALNUMBEROFAPPS):
 
 userJson['sources']=myUsers
 
-file = open("usersDefinition.json","w")
+file = open("fognodesDefinition.json","w")
 file.write(json.dumps(userJson))
 file.close()
 

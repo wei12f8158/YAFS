@@ -138,7 +138,7 @@ class Stats:
         print ("\tNetwork bytes transmitted:")
         print ("\t\t%.1f" % self.bytes_transmitted())
 
-
+    """ONLYE THE FIRST ONE : DEBUG"""
     def showResults2(self, total_time, time_loops=None):
         print ("\tSimulation Time: %0.2f" % total_time)
 
@@ -151,7 +151,7 @@ class Stats:
         print ("\tNetwork bytes transmitted:")
         print ("\t\t%.1f" % self.bytes_transmitted())
 
-    """ONLYE THE FIRST ONE : DEBUG"""
+
     def valueLoop(self, total_time, time_loops=None):
             if time_loops is not None:
                 results = self.average_loop_response(time_loops)

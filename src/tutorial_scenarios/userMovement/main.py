@@ -18,14 +18,14 @@ from yafs.topology import Topology
 from yafs.placement import JSONPlacement
 from yafs.path_routing import DeviceSpeedAwareRouting
 from yafs.distribution import deterministic_distribution, deterministicDistributionStartPoint
-from collections import defaultdict
+
 
 
 class CustomStrategy():
 
     def __init__(self, pathResults, listIdApps):
         self.activations = 0
-        #self.pathResults = pathResults
+        self.pathResults = pathResults
         self.listUsers = []
         self.numberMaxUsers = 100 #100
         self.listIdApps = listIdApps
@@ -34,7 +34,7 @@ class CustomStrategy():
     def createUser(self, sim):
         app_name = random.sample(self.listIdApps, 1)[0]
         app = sim.apps[app_name]
-        msg = app.get_message("M.USER.APP.%i" % app_name)
+        msg = app.get_message("Fog.Node.%i" % app_name)
         dist = deterministic_distribution(30, name="Deterministic")  # 30
         node = random.sample(sim.topology.G.nodes(), 1)[0]
         idDES = sim.deploy_source(app_name, id_node=node, msg=msg, distribution=dist)
@@ -55,14 +55,15 @@ class CustomStrategy():
         if random.random() < 0.6:
             # we create a new user
             idDES = self.createUser(sim)
-            logging.info(" Creating a new user %i on node %i" % (idDES, self.placeAt[idDES]))
+            logging.info(" Creating a FogNode %i on node %i" % (idDES, self.placeAt[idDES]))
 
         elif random.random() < 0.8:
             # we move a user from one node to other
             userDES = random.sample(self.listUsers, 1)[0]
             newNode = random.sample(sim.topology.G.nodes(), 1)[0]
-            logging.info(" Moving a user %i from node %i to %i" % (userDES, self.placeAt[userDES], newNode))
+            logging.info(" Moving a FogNode %i from node %i to %i" % (userDES, self.placeAt[userDES], newNode))
             sim.alloc_DES[self.placeAt[userDES]] = newNode
+
         else:
             # we remove an user
             userDES = random.sample(self.listUsers, 1)[0]
@@ -82,9 +83,9 @@ def main(stop_time, it):
     t = Topology()
 
     # You also can create a topology using JSONs files. Check out examples folder
-    size = 50
+    size = 200
     #t.G = nx.binomial_tree(size)  # In NX-lib there are a lot of Graphs generators
-    t.G = nx.fast_gnp_random_graph(size, 0.5)
+    t.G = nx.gnp_random_graph(size, 0.05)
 
     # Definition of mandatory attributes of a Topology
     # Attr. on edges
@@ -94,12 +95,12 @@ def main(stop_time, it):
     nx.set_edge_attributes(t.G, name="BW", values=attPR_BW)
     # Attr. on nodes
     # IPT
-    attIPT = {x: 100 for x in t.G.nodes()}
+    attIPT = {x: 100 for x in t.G.nodes()} #100 service
     nx.set_node_attributes(t.G, name="IPT", values=attIPT)
     #nx.write_gexf(t.G, folder_results + "graph_binomial_tree_%i" % size)  # you can export the Graph in multiples format to view in tools like Gephi, and so on.
 
     nx.draw(t.G, with_labels=True)  # Draw
-    plt.show()
+    #plt.show()
 
     print(t.G.nodes ()) # nodes id can be str or int
 
@@ -137,14 +138,14 @@ def main(stop_time, it):
 
     ### IN THIS CASE, We control the users from our custom strategy
 
-    # userJSON = json.load(open('data/usersDefinition.json'))
-    # for user in userJSON["sources"]:
-    #    app_name = user["app"]
-    #    app = s.apps[app_name]
-    #    msg = app.get_message(user["message"])
-    #    node = user["id_resource"]
-    #    dist = deterministic_distribution(100, name="Deterministic")
-    #   idDES = s.deploy_source(app_name, id_node=node, msg=msg, distribution=dist)
+    userJSON = json.load(open('data/fognodesDefinition.json'))
+    for user in userJSON["sources"]:
+        app_name = user["app"]
+        app = s.apps[app_name]
+        msg = app.get_message(user["message"])
+        node = user["id_resource"]
+        dist = deterministic_distribution(200, name="Deterministic") #100
+        idDES = s.deploy_source(app_name, id_node=node, msg=msg, distribution=dist)
 
     """
     This internal monitor in the simulator (a DES process) changes the sim's behaviour. 
@@ -167,7 +168,7 @@ def main(stop_time, it):
     s.run(stop_time)  # To test deployments put test_initial_deploy a TRUE
     s.print_debug_assignaments()
 
-    print("Number of new users: %i" % len(evol.listUsers))
+    print("Number of new FogNodes: %i" % len(evol.listUsers))
 
 
 if __name__ == '__main__':
@@ -175,7 +176,7 @@ if __name__ == '__main__':
     logging.config.fileConfig(os.getcwd() + '/logging.ini')
 
     nIterations = 1  # iteration for each experiment
-    simulationDuration = 20000  # 20000
+    simulationDuration = 500  # 20000
 
     # Iteration for each experiment changing the seed of randoms
     for iteration in range(nIterations):

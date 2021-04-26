@@ -1,0 +1,64 @@
+{
+  "sources": [
+    {
+      "id_resource": 0,
+      "app": 0,
+      "message": "Fog.Node.0",
+      "lambda": 200
+    },
+    {
+      "id_resource": 0,
+      "app": 1,
+      "message": "Fog.Node.1",
+      "lambda": 2000
+    },
+    {
+      "id_resource": 0,
+      "app": 2,
+      "message": "Fog.Node.2",
+      "lambda": 20000
+    },
+    {
+      "id_resource": 0,
+      "app": 3,
+      "message": "Fog.Node.3",
+      "lambda": 200000
+    },
+    {
+      "id_resource": 0,
+      "app": 4,
+      "message": "Fog.Node.4",
+      "lambda": 200
+    },
+    {
+      "id_resource": 0,
+      "app": 5,
+      "message": "Fog.Node.5",
+      "lambda": 200
+    },
+    {
+      "id_resource": 0,
+      "app": 6,
+      "message": "Fog.Node.6",
+      "lambda": 200
+    },
+    {
+      "id_resource": 0,
+      "app": 7,
+      "message": "Fog.Node.7",
+      "lambda": 200
+    },
+    {
+      "id_resource": 0,
+      "app": 8,
+      "message": "Fog.Node.8",
+      "lambda": 200
+    },
+    {
+      "id_resource": 0,
+      "app": 9,
+      "message": "Fog.Node.9",
+      "lambda": 200
+    }
+  ]
+}
