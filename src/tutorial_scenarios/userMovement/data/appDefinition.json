@@ -59,8 +59,8 @@
         "name": "Fog.Node.1",
         "s": "None",
         "d": "1_01",
-        "bytes": 500,
-        "instructions": 700
+        "bytes": 20,
+        "instructions": 30
       }
     ]
   },
@@ -331,4 +331,6 @@
       }
     ]
   }
+
+
 ]

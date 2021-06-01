@@ -113,7 +113,7 @@ def main(stop_time, it):
     # Definition of mandatory attributes of a Topology
     # Attr. on edges
     # PR and BW are 1 unit
-    attPR_BW = {x: 1 for x in t.G.edges()}
+    attPR_BW = {x: 10 for x in t.G.edges()}
     nx.set_edge_attributes(t.G, name="PR", values=attPR_BW)
     nx.set_edge_attributes(t.G, name="BW", values=attPR_BW)
     ## Attr. on nodes
@@ -197,7 +197,7 @@ if __name__ == '__main__':
     logging.config.fileConfig(os.getcwd() + '/logging.ini')
 
     nIterations = 1  # iteration for each experiment
-    simulationDuration = 1000 #20000
+    simulationDuration = 2000 #20000
 
     # Iteration for each experiment changing the seed of randoms
     for iteration in range(nIterations):

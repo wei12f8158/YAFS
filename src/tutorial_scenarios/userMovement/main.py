@@ -1,5 +1,5 @@
 """
-    In this simulation, the users moves in different nodes. There are linked to another nodes.
+    In this simulation, the fog device moves in different nodes. There are linked to another nodes.
 
     @author: Isaac Lera
 """
@@ -64,12 +64,12 @@ class CustomStrategy():
             logging.info(" Moving a FogNode %i from node %i to %i" % (userDES, self.placeAt[userDES], newNode))
             sim.alloc_DES[self.placeAt[userDES]] = newNode
 
-        else:
-            # we remove an user
-            userDES = random.sample(self.listUsers, 1)[0]
-            sim.undeploy_source(userDES)
-            self.listUsers.remove(userDES)
-            logging.info(" Removing a user %i on node %i" % (userDES, self.placeAt[userDES]))
+        #else:
+        #    # we remove an user
+        #    userDES = random.sample(self.listUsers, 1)[0]
+        #    sim.undeploy_source(userDES)
+        #    self.listUsers.remove(userDES)
+        #    logging.info(" Removing a user %i on node %i" % (userDES, self.placeAt[userDES]))
 
 
 def main(stop_time, it):
@@ -85,7 +85,26 @@ def main(stop_time, it):
     # You also can create a topology using JSONs files. Check out examples folder
     size = 200
     #t.G = nx.binomial_tree(size)  # In NX-lib there are a lot of Graphs generators
-    t.G = nx.gnp_random_graph(size, 0.05)
+    t.G = nx.gnp_random_graph(size, 0.025)
+    initial = [55,61,67,73,81,89,96,109,176]
+    finial = [105,93,187,92,185,45,59,31,9,43]
+
+    color_map = []
+    node_size = []
+
+    for node in t.G:
+     #print(node)
+     if node in initial:
+      color_map.append('orange')
+      node_size.append(200)
+     elif node in finial:
+      color_map.append('green')
+      node_size.append(300)
+     else:
+      color_map.append('gray')
+      node_size.append(100)
+     print(color_map)
+
 
     # Definition of mandatory attributes of a Topology
     # Attr. on edges
@@ -99,8 +118,8 @@ def main(stop_time, it):
     nx.set_node_attributes(t.G, name="IPT", values=attIPT)
     #nx.write_gexf(t.G, folder_results + "graph_binomial_tree_%i" % size)  # you can export the Graph in multiples format to view in tools like Gephi, and so on.
 
-    nx.draw(t.G, with_labels=True)  # Draw
-    #plt.show()
+    nx.draw(t.G, node_color = color_map, with_labels=False, node_size = node_size, alpha = 0.7)  # Draw
+    plt.show()
 
     print(t.G.nodes ()) # nodes id can be str or int
 
@@ -176,7 +195,7 @@ if __name__ == '__main__':
     logging.config.fileConfig(os.getcwd() + '/logging.ini')
 
     nIterations = 1  # iteration for each experiment
-    simulationDuration = 500  # 20000
+    simulationDuration = 2000  # 20000
 
     # Iteration for each experiment changing the seed of randoms
     for iteration in range(nIterations):
